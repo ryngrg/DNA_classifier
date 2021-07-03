@@ -1,0 +1,2608 @@
+Sample name,Sex,Population code,Population name
+HG00315,female,FIN,Finnish
+HG00327,female,FIN,Finnish
+HG00334,female,FIN,Finnish
+HG00339,female,FIN,Finnish
+HG00341,male,FIN,Finnish
+HG00346,female,FIN,Finnish
+HG00353,female,FIN,Finnish
+HG00358,male,FIN,Finnish
+HG00360,male,FIN,"Finnish,Finnish"
+HG00365,female,FIN,Finnish
+HG00372,male,FIN,Finnish
+HG00377,female,FIN,Finnish
+HG00384,female,FIN,Finnish
+HG00404,female,CHS,Southern Han Chinese
+HG00409,male,CHS,Southern Han Chinese
+HG00106,female,GBR,British
+HG00113,male,GBR,British
+HG00118,female,GBR,British
+HG00120,female,GBR,British
+HG00125,female,GBR,British
+HG00132,female,GBR,British
+HG00137,female,GBR,British
+HG00144,female,GBR,British
+HG00149,male,GBR,British
+HG00151,male,GBR,British
+HG00156,male,GBR,British
+HG00182,male,FIN,Finnish
+HG00187,male,FIN,Finnish
+HG00233,female,GBR,British
+HG00238,female,GBR,British
+HG00240,female,GBR,British
+HG00245,female,GBR,British
+HG00252,male,GBR,British
+HG00257,female,GBR,British
+HG00097,female,GBR,British
+HG00264,male,GBR,British
+HG00100,female,GBR,British
+HG00269,female,FIN,Finnish
+HG00105,male,GBR,British
+HG00271,male,FIN,Finnish
+HG00112,male,GBR,British
+HG00276,female,FIN,Finnish
+HG00117,male,GBR,British
+HG00288,female,FIN,Finnish
+HG00124,female,GBR,British
+HG00290,male,FIN,Finnish
+HG00129,male,GBR,British
+HG00131,male,GBR,British
+HG00308,male,FIN,Finnish
+HG00136,male,GBR,British
+HG00310,male,FIN,Finnish
+HG00143,male,GBR,British
+HG00098,male,GBR,British
+HG00148,male,GBR,British
+HG00101,male,GBR,British
+HG00150,female,GBR,British
+HG00155,male,GBR,British
+HG00428,female,CHS,Southern Han Chinese
+HG00174,female,FIN,"Finnish,Finnish"
+HG00442,male,CHS,Southern Han Chinese
+HG00179,female,FIN,Finnish
+HG00181,male,FIN,Finnish
+HG00186,male,FIN,Finnish
+HG00473,female,CHS,Southern Han Chinese
+HG00232,female,GBR,British
+HG00478,male,CHS,Southern Han Chinese
+HG00237,female,GBR,British
+HG00244,male,GBR,British
+HG00500,male,CHS,Southern Han Chinese
+HG00319,female,FIN,Finnish
+HG00512,male,CHS,Southern Han Chinese
+HG00321,male,FIN,Finnish
+HG00524,male,CHS,Southern Han Chinese
+HG00326,female,FIN,Finnish
+HG00531,female,CHS,Southern Han Chinese
+HG00338,male,FIN,Finnish
+HG00536,male,CHS,Southern Han Chinese
+HG00345,male,FIN,Finnish
+HG00733,female,PUR,Puerto Rican
+HG00357,female,FIN,Finnish
+HG00364,female,FIN,Finnish
+HG00740,female,PUR,Puerto Rican
+HG00369,male,FIN,Finnish
+HG00978,female,CDX,Dai Chinese
+HG00371,male,FIN,Finnish
+HG00376,female,FIN,Finnish
+HG01197,male,PUR,Puerto Rican
+HG00383,female,FIN,Finnish
+HG01200,male,PUR,Puerto Rican
+HG00403,male,CHS,Southern Han Chinese
+HG01205,female,PUR,Puerto Rican
+HG00410,female,CHS,Southern Han Chinese
+HG01248,female,PUR,Puerto Rican
+HG00422,female,CHS,Southern Han Chinese
+HG01250,male,CLM,Colombian
+HG00542,male,CHS,Southern Han Chinese
+HG00554,female,PUR,Puerto Rican
+HG01274,male,CLM,Colombian
+HG00559,male,CHS,Southern Han Chinese
+HG00620,female,CHS,Southern Han Chinese
+HG00566,female,CHS,Southern Han Chinese
+HG00625,male,CHS,Southern Han Chinese
+HG00578,female,CHS,Southern Han Chinese
+HG00632,female,CHS,Southern Han Chinese
+HG00580,male,CHS,Southern Han Chinese
+HG00637,male,PUR,Puerto Rican
+HG00651,female,CHS,Southern Han Chinese
+HG00592,male,CHS,Southern Han Chinese
+HG00656,male,CHS,Southern Han Chinese
+HG00663,female,CHS,Southern Han Chinese
+HG00543,female,CHS,Southern Han Chinese
+HG00427,male,CHS,Southern Han Chinese
+HG00446,female,CHS,Southern Han Chinese
+HG00458,female,CHS,Southern Han Chinese
+HG00581,female,CHS,Southern Han Chinese
+HG00593,female,CHS,Southern Han Chinese
+HG00472,male,CHS,Southern Han Chinese
+HG00598,male,CHS,Southern Han Chinese
+HG00613,male,CHS,Southern Han Chinese
+HG00530,male,CHS,Southern Han Chinese
+HG01077,female,PUR,Puerto Rican
+HG00732,female,PUR,Puerto Rican
+HG01089,female,PUR,Puerto Rican
+HG00737,female,PUR,Puerto Rican
+HG00864,female,CDX,Dai Chinese
+HG01104,male,PUR,Puerto Rican
+HG00249,female,GBR,British
+HG00251,male,GBR,British
+HG01111,female,PUR,Puerto Rican
+HG00256,male,GBR,British
+HG00263,female,GBR,British
+HG00675,female,CHS,Southern Han Chinese
+HG00268,female,FIN,Finnish
+HG00270,female,FIN,Finnish
+HG00699,female,CHS,Southern Han Chinese
+HG00275,female,FIN,Finnish
+HG00702,female,CHS,Southern Han Chinese
+HG00282,female,FIN,Finnish
+HG00707,male,CHS,Southern Han Chinese
+HG01130,male,CLM,Colombian
+HG01142,male,CLM,Colombian
+HG00629,female,CHS,Southern Han Chinese
+HG01161,male,PUR,Puerto Rican
+HG00631,male,CHS,Southern Han Chinese
+HG01173,male,PUR,Puerto Rican
+HG00650,male,CHS,Southern Han Chinese
+HG01046,female,CDX,Dai Chinese
+HG00662,male,CHS,Southern Han Chinese
+HG01058,female,PUR,Puerto Rican
+HG00674,male,CHS,Southern Han Chinese
+HG01060,male,PUR,Puerto Rican
+HG00693,female,CHS,Southern Han Chinese
+HG01072,male,PUR,Puerto Rican
+HG00698,male,CHS,Southern Han Chinese
+HG00701,male,CHS,Southern Han Chinese
+HG01488,male,CLM,Colombian
+HG01495,female,CLM,Colombian
+HG01052,female,PUR,Puerto Rican
+HG01503,male,IBS,"Iberian,Spanish"
+HG01064,female,PUR,Puerto Rican
+HG01069,male,PUR,Puerto Rican
+HG01565,male,PEL,Peruvian
+HG01572,female,PEL,Peruvian
+HG01191,female,PUR,Puerto Rican
+HG01577,male,PEL,Peruvian
+HG01204,male,PUR,Puerto Rican
+HG01589,male,PJL,Punjabi
+HG01242,female,PUR,Puerto Rican
+HG01596,male,KHV,Kinh Vietnamese
+HG01247,male,PUR,Puerto Rican
+HG01254,female,CLM,Colombian
+HG01351,female,CLM,Colombian
+HG01259,male,CLM,Colombian
+HG01356,male,CLM,Colombian
+HG01363,female,CLM,Colombian
+HG01375,female,CLM,Colombian
+HG01278,female,CLM,Colombian
+HG01280,male,CLM,Colombian
+HG01402,male,PUR,Puerto Rican
+HG01083,female,PUR,Puerto Rican
+HG01414,female,PUR,Puerto Rican
+HG01088,male,PUR,Puerto Rican
+HG01438,female,CLM,Colombian
+HG01095,female,PUR,Puerto Rican
+HG01440,male,CLM,Colombian
+HG01281,female,CLM,Colombian
+HG01108,female,PUR,Puerto Rican
+HG01286,male,PUR,Puerto Rican
+HG01110,male,PUR,Puerto Rican
+HG01122,female,CLM,Colombian
+HG01325,male,PUR,Puerto Rican
+HG01350,male,CLM,Colombian
+HG01344,male,CLM,Colombian
+HG01362,male,CLM,Colombian
+HG01374,male,CLM,Colombian
+HG01623,female,IBS,Iberian
+HG01393,female,PUR,Puerto Rican
+HG01134,female,CLM,Colombian
+HG01139,male,CLM,Colombian
+HG01464,male,CLM,Colombian
+HG01177,female,PUR,Puerto Rican
+HG01628,female,IBS,Iberian
+HG01630,male,IBS,Iberian
+HG01673,female,IBS,Iberian
+HG01678,male,IBS,Iberian
+HG01680,male,IBS,Iberian
+HG01494,male,CLM,Colombian
+HG01510,female,IBS,Iberian
+HG01515,male,IBS,Iberian
+HG01522,female,IBS,Iberian
+HG01507,female,IBS,Iberian
+HG01527,male,IBS,Iberian
+HG01305,male,PUR,Puerto Rican
+HG01894,female,ACB,African Caribbean
+HG01312,female,PUR,Puerto Rican
+HG01914,male,ACB,African Caribbean
+HG01921,female,PEL,Peruvian
+HG01348,female,CLM,Colombian
+HG01868,female,KHV,Kinh Vietnamese
+HG01398,male,PUR,Puerto Rican
+HG01870,female,KHV,Kinh Vietnamese
+HG01413,male,PUR,Puerto Rican
+HG01882,male,ACB,African Caribbean
+HG01432,female,CLM,Colombian
+HG01437,male,CLM,Colombian
+HG01926,male,PEL,Peruvian
+HG01444,female,CLM,Colombian
+HG01933,female,PEL,Peruvian
+HG01456,female,CLM,Colombian
+HG01938,male,PEL,Peruvian
+HG01468,female,CLM,Colombian
+HG01945,female,PEL,Peruvian
+HG01519,female,IBS,Iberian
+HG01521,male,IBS,Iberian
+HG01762,female,IBS,Iberian
+HG01767,male,IBS,Iberian
+HG01779,female,IBS,Iberian
+HG01571,male,PEL,Peruvian
+HG01781,male,IBS,Iberian
+HG01583,male,PJL,Punjabi
+HG01786,female,IBS,Iberian
+HG01595,female,KHV,Kinh Vietnamese
+HG01867,male,KHV,Kinh Vietnamese
+HG01971,female,PEL,Peruvian
+HG01874,female,KHV,Kinh Vietnamese
+HG01685,female,IBS,Iberian
+HG01879,male,ACB,African Caribbean
+HG01697,female,IBS,Iberian
+HG01700,male,IBS,Iberian
+HG01886,female,ACB,African Caribbean
+HG01705,male,IBS,Iberian
+HG01709,male,IBS,Iberian
+HG01844,male,KHV,Kinh Vietnamese
+HG01849,male,KHV,Kinh Vietnamese
+HG01747,male,IBS,Iberian
+HG01851,female,KHV,Kinh Vietnamese
+HG01761,male,IBS,Iberian
+HG01863,female,KHV,Kinh Vietnamese
+HG01766,female,IBS,Iberian
+HG01798,female,CDX,Dai Chinese
+HG01773,female,IBS,Iberian
+HG01801,female,CDX,Dai Chinese
+HG01603,male,IBS,Iberian
+HG01806,female,CDX,Dai Chinese
+HG01608,male,IBS,Iberian
+HG01813,female,CDX,Dai Chinese
+HG01610,male,IBS,Iberian
+HG02006,female,PEL,Peruvian
+HG01615,male,IBS,Iberian
+HG02013,male,ACB,African Caribbean
+HG02020,male,KHV,Kinh Vietnamese
+HG01976,female,PEL,Peruvian
+HG01983,female,PEL,Peruvian
+HG01785,male,IBS,Iberian
+HG01988,male,ACB,African Caribbean
+HG01797,female,CDX,Dai Chinese
+HG01990,male,ACB,African Caribbean
+HG01684,female,IBS,Iberian
+HG02025,female,KHV,Kinh Vietnamese
+HG01704,female,IBS,Iberian
+HG02032,male,KHV,Kinh Vietnamese
+HG01843,female,KHV,Kinh Vietnamese
+HG02049,female,KHV,Kinh Vietnamese
+HG01848,female,KHV,Kinh Vietnamese
+HG02051,male,ACB,African Caribbean
+HG01850,female,KHV,Kinh Vietnamese
+HG02082,male,KHV,Kinh Vietnamese
+HG01855,female,KHV,Kinh Vietnamese
+HG02087,female,KHV,Kinh Vietnamese
+HG01862,female,KHV,Kinh Vietnamese
+HG02102,female,PEL,Peruvian
+HG01672,male,IBS,Iberian
+HG02107,male,ACB,African Caribbean
+HG01800,female,CDX,Dai Chinese
+HG02152,female,CDX,Dai Chinese
+HG01805,female,CDX,Dai Chinese
+HG02164,female,CDX,Dai Chinese
+HG01812,female,CDX,Dai Chinese
+HG01817,female,CDX,Dai Chinese
+HG02121,female,KHV,Kinh Vietnamese
+HG02079,male,KHV,Kinh Vietnamese
+HG02081,female,KHV,Kinh Vietnamese
+HG02133,female,KHV,Kinh Vietnamese
+HG02086,female,KHV,Kinh Vietnamese
+HG02138,male,KHV,Kinh Vietnamese
+HG02140,female,KHV,Kinh Vietnamese
+HG01951,female,PEL,Peruvian
+HG01956,female,ACB,African Caribbean
+HG02239,female,IBS,Iberian
+HG01968,female,PEL,Peruvian
+HG02253,male,PEL,Peruvian
+HG01970,male,PEL,Peruvian
+HG02024,female,KHV,Kinh Vietnamese
+HG02029,male,KHV,Kinh Vietnamese
+HG02070,male,KHV,Kinh Vietnamese
+HG02031,female,KHV,Kinh Vietnamese
+HG02075,female,KHV,Kinh Vietnamese
+HG02048,female,KHV,Kinh Vietnamese
+HG02050,male,KHV,Kinh Vietnamese
+HG02188,female,CDX,Dai Chinese
+HG02190,female,CDX,Dai Chinese
+HG02067,male,KHV,Kinh Vietnamese
+HG02215,female,GBR,British
+HG02568,female,GWD,Gambian Mandinka
+HG01932,male,PEL,Peruvian
+HG02570,male,GWD,Gambian Mandinka
+HG01944,male,PEL,Peruvian
+HG02582,male,GWD,Gambian Mandinka
+HG01982,male,PEL,Peruvian
+HG02594,male,GWD,Gambian Mandinka
+HG02113,female,KHV,Kinh Vietnamese
+HG02429,male,ACB,African Caribbean
+HG02436,male,ACB,African Caribbean
+HG02137,male,KHV,Kinh Vietnamese
+HG02450,female,ACB,African Caribbean
+HG01893,female,PEL,Peruvian
+HG02455,male,ACB,African Caribbean
+HG02462,female,GWD,Gambian Mandinka
+HG01918,female,PEL,Peruvian
+HG01920,male,PEL,Peruvian
+HG02260,female,PEL,Peruvian
+HG02012,female,ACB,African Caribbean
+HG02265,male,PEL,Peruvian
+HG02017,male,KHV,Kinh Vietnamese
+HG02272,female,PEL,Peruvian
+HG02277,male,PEL,Peruvian
+HG02442,male,ACB,African Caribbean
+HG02479,female,ACB,African Caribbean
+HG02461,male,GWD,Gambian Mandinka
+HG02481,male,ACB,African Caribbean
+HG02493,male,PJL,Punjabi
+HG02182,female,CDX,Dai Chinese
+HG02501,male,ACB,African Caribbean
+HG02187,female,CDX,Dai Chinese
+HG02513,female,KHV,Kinh Vietnamese
+HG02219,male,IBS,Iberian
+HG02221,male,IBS,Iberian
+HG02537,female,ACB,African Caribbean
+HG02283,male,ACB,African Caribbean
+HG02549,female,ACB,African Caribbean
+HG02284,male,ACB,African Caribbean
+HG02291,male,PEL,Peruvian
+HG02308,female,ACB,African Caribbean
+HG02304,male,PEL,Peruvian
+HG02353,male,CDX,Dai Chinese
+HG02309,female,ACB,African Caribbean
+HG02360,male,CDX,Dai Chinese
+HG02323,male,ACB,African Caribbean
+HG02372,male,CDX,Dai Chinese
+HG02330,male,ACB,African Caribbean
+HG02377,male,CDX,Dai Chinese
+HG02384,male,CDX,Dai Chinese
+HG02373,male,CDX,Dai Chinese
+HG02144,female,ACB,African Caribbean
+HG02380,male,CDX,Dai Chinese
+HG02151,female,CDX,Dai Chinese
+HG02385,male,CDX,Dai Chinese
+HG02156,female,CDX,Dai Chinese
+HG02392,male,CDX,Dai Chinese
+HG02397,male,CDX,Dai Chinese
+HG02233,male,IBS,Iberian
+HG02238,male,IBS,Iberian
+HG02789,male,PJL,Punjabi
+HG02252,female,PEL,Peruvian
+HG02804,male,GWD,Gambian Mandinka
+HG02271,male,PEL,Peruvian
+HG02811,female,GWD,Gambian Mandinka
+HG02816,male,GWD,Gambian Mandinka
+HG02315,female,ACB,African Caribbean
+HG02854,male,GWD,Gambian Mandinka
+HG02322,female,ACB,African Caribbean
+HG02861,female,GWD,Gambian Mandinka
+HG02334,male,ACB,African Caribbean
+HG02878,male,GWD,Gambian Mandinka
+HG02339,female,ACB,African Caribbean
+HG02389,male,CDX,Dai Chinese
+HG02885,female,GWD,Gambian Mandinka
+HG02391,male,CDX,Dai Chinese
+HG02396,male,CDX,Dai Chinese
+HG02409,male,CDX,Dai Chinese
+HG02733,male,PJL,Punjabi
+HG02974,female,ESN,Esan
+HG02979,female,ESN,Esan
+HG02757,female,GWD,Gambian Mandinka
+HG02981,male,ESN,Esan
+HG03009,male,BEB,Bengali
+HG02769,female,GWD,Gambian Mandinka
+HG03016,female,PJL,Punjabi
+HG02771,male,GWD,Gambian Mandinka
+HG02734,female,PJL,Punjabi
+HG02783,male,PJL,"Punjabi,Punjabi"
+HG02562,female,GWD,Gambian Mandinka
+HG02760,female,GWD,Gambian Mandinka
+HG02772,female,GWD,Gambian Mandinka
+HG02574,female,GWD,"Gambian Mandinka,Gambian"
+HG02784,female,PJL,Punjabi
+HG02586,female,GWD,Gambian Mandinka
+HG02690,male,PJL,Punjabi
+HG02601,female,PJL,Punjabi
+HG02703,female,GWD,Gambian Mandinka
+HG02715,male,GWD,Gambian Mandinka
+HG02790,female,PJL,"Punjabi,Punjabi"
+HG02722,female,GWD,Gambian Mandinka
+HG02808,female,GWD,Gambian Mandinka
+HG02727,male,PJL,Punjabi
+HG02810,male,GWD,Gambian Mandinka
+HG03028,female,GWD,Gambian Mandinka
+HG02839,male,GWD,Gambian Mandinka
+HG03054,male,MSL,Mende
+HG02860,male,GWD,Gambian Mandinka
+HG03061,female,MSL,Mende
+HG02884,male,GWD,Gambian Mandinka
+HG02657,male,PJL,Punjabi
+HG02676,female,GWD,Gambian Mandinka
+HG02891,female,GWD,Gambian Mandinka
+HG02896,female,GWD,Gambian Mandinka
+HG02688,female,PJL,Punjabi
+HG02923,male,ESN,Esan
+HG02614,female,GWD,Gambian Mandinka
+HG02478,male,ACB,African Caribbean
+HG02621,female,GWD,Gambian Mandinka
+HG02645,male,GWD,Gambian Mandinka
+HG02485,female,ACB,African Caribbean
+HG02652,female,PJL,Punjabi
+HG02943,female,ESN,"Esan,Esan"
+HG02497,female,ACB,African Caribbean
+HG02505,female,ACB,African Caribbean
+HG03066,male,MSL,Mende
+HG03073,female,MSL,Mende
+HG03078,male,MSL,"Mende,Mende"
+HG02675,male,GWD,Gambian Mandinka
+HG02682,female,PJL,Punjabi
+HG03085,female,MSL,"Mende,Mende"
+HG02687,male,PJL,Punjabi
+HG03097,female,MSL,Mende
+HG02613,male,GWD,Gambian Mandinka
+HG02620,male,GWD,Gambian Mandinka
+HG03268,male,ESN,Esan
+HG03270,female,ESN,Esan
+HG02649,female,PJL,Punjabi
+HG03294,female,ESN,Esan
+HG02651,male,PJL,Punjabi
+HG03100,male,ESN,"Esan,Esan"
+HG02694,female,PJL,Punjabi
+HG03105,female,ESN,Esan
+HG02699,male,PJL,Punjabi
+HG03112,male,ESN,Esan
+HG02702,male,GWD,Gambian Mandinka
+HG03117,female,ESN,Esan
+HG02721,male,GWD,Gambian Mandinka
+HG03352,male,ESN,Esan
+HG03369,female,ESN,Esan
+HG02512,male,KHV,Kinh Vietnamese
+HG03376,male,MSL,Mende
+HG02536,male,ACB,African Caribbean
+HG02555,female,ACB,African Caribbean
+HG03388,male,MSL,Mende
+HG03027,male,GWD,Gambian Mandinka
+HG03039,male,GWD,Gambian Mandinka
+HG03410,female,MSL,Mende
+HG03198,female,ESN,Esan
+HG03046,female,GWD,Gambian Mandinka
+HG03225,male,MSL,Mende
+HG03237,male,PJL,Punjabi
+HG03058,female,MSL,Mende
+HG03124,male,ESN,Esan
+HG03060,male,MSL,Mende
+HG03129,female,ESN,Esan
+HG03072,male,MSL,Mende
+HG03136,male,ESN,Esan
+HG03077,male,MSL,Mende
+HG03084,male,MSL,Mende
+HG03091,female,MSL,Mende
+HG03096,male,MSL,Mende
+HG03162,female,ESN,Esan
+HG03267,female,ESN,Esan
+HG03193,male,ESN,Esan
+HG03279,female,ESN,Esan
+HG03624,male,PJL,Punjabi
+HG03629,male,PJL,Punjabi
+HG03212,female,MSL,Mende
+HG03631,female,PJL,Punjabi
+HG03224,male,MSL,Mende
+HG03636,male,PJL,Punjabi
+HG03229,female,PJL,Punjabi
+HG03698,female,STU,Tamil
+HG02973,male,ESN,Esan
+HG03706,female,PJL,Punjabi
+HG03713,male,ITU,Telugu
+HG03491,female,PJL,Punjabi
+HG03015,male,PJL,Punjabi
+HG03511,female,ESN,Esan
+HG03022,female,PJL,Punjabi
+HG03123,female,ESN,Esan
+HG03460,male,MSL,Mende
+HG03130,male,ESN,Esan
+HG03472,male,MSL,Mende
+HG03135,female,ESN,Esan
+HG03159,female,ESN,Esan
+HG03484,male,MSL,Mende
+HG03439,male,MSL,Mende
+HG03109,male,ESN,Esan
+HG03446,female,MSL,Mende
+HG03111,female,ESN,Esan
+HG03458,female,MSL,Mende
+HG03643,female,STU,Tamil
+HG02947,male,ESN,Esan
+HG03667,male,PJL,Punjabi
+HG03578,female,MSL,Mende
+HG03585,male,BEB,Bengali
+HG03166,male,ESN,Esan
+HG03600,male,BEB,Bengali
+HG03679,male,STU,Tamil
+HG03681,male,STU,Tamil
+HG03539,female,GWD,Gambian Mandinka
+HG03686,male,STU,Tamil
+HG03558,female,MSL,Mende
+HG03693,male,STU,Tamil
+HG03565,male,MSL,Mende
+HG03547,male,MSL,Mende
+HG03572,female,MSL,Mende
+HG03559,male,MSL,Mende
+HG03577,male,MSL,Mende
+HG03718,male,ITU,Telugu
+HG03589,female,BEB,Bengali
+HG03720,male,ITU,Telugu
+HG03604,female,BEB,Bengali
+HG03488,female,PJL,Punjabi
+HG03744,male,STU,Tamil
+HG03490,male,PJL,Punjabi
+HG03821,male,BEB,Bengali
+HG03826,female,BEB,Bengali
+HG03833,male,BEB,Bengali
+HG03515,male,ESN,Esan
+HG03838,female,STU,Tamil
+HG03433,male,MSL,Mende
+HG03845,male,STU,Tamil
+HG03445,male,MSL,Mende
+HG03934,female,BEB,Bengali
+HG03452,female,MSL,Mende
+HG03457,male,MSL,Mende
+HG03941,male,BEB,Bengali
+HG03953,male,STU,Tamil
+HG03351,female,ESN,Esan
+HG03960,male,ITU,Telugu
+HG03363,female,ESN,Esan
+HG03908,male,BEB,Bengali
+HG03370,male,ESN,Esan
+HG03910,female,BEB,Bengali
+HG03382,male,MSL,Mende
+HG03394,male,MSL,Mende
+HG03922,female,BEB,Bengali
+HG03419,female,MSL,Mende
+HG03802,female,BEB,Bengali
+HG03464,female,MSL,Mende
+HG03469,male,MSL,Mende
+HG03814,female,BEB,Bengali
+HG03775,male,ITU,Telugu
+HG03476,female,MSL,Mende
+HG03782,female,ITU,Telugu
+HG03298,male,ESN,Esan
+HG03787,female,ITU,Telugu
+HG03301,male,ESN,Esan
+HG03756,female,STU,Tamil
+HG03313,male,ESN,Esan
+HG03611,female,BEB,Bengali
+HG03770,female,ITU,Telugu
+HG03616,female,BEB,Bengali
+HG03888,female,STU,Tamil
+HG03697,male,STU,Tamil
+HG03890,male,STU,Tamil
+HG03895,female,STU,Tamil
+HG03705,male,PJL,Punjabi
+HG03857,female,STU,Tamil
+HG03717,female,ITU,Telugu
+HG03864,male,ITU,Telugu
+HG03774,female,ITU,Telugu
+HG03869,male,ITU,Telugu
+HG03779,male,ITU,Telugu
+HG03871,male,ITU,Telugu
+HG03781,female,ITU,Telugu
+HG03786,male,ITU,Telugu
+HG04235,male,ITU,Telugu
+HG03793,female,BEB,Bengali
+NA06984,male,CEU,CEPH
+NA06989,female,CEU,CEPH
+HG03832,female,BEB,Bengali
+HG03837,male,STU,Tamil
+HG03844,male,STU,Tamil
+HG03750,male,STU,Tamil
+HG04090,female,ITU,Telugu
+HG03755,male,STU,Tamil
+HG03762,female,PJL,Punjabi
+HG03767,male,PJL,Punjabi
+HG03849,female,STU,Tamil
+HG04134,male,BEB,Bengali
+HG03851,male,STU,Tamil
+HG03856,male,STU,Tamil
+HG03863,female,ITU,Telugu
+HG03868,female,ITU,Telugu
+HG03870,male,ITU,Telugu
+HG04141,female,BEB,Bengali
+HG03673,female,STU,Tamil
+HG04146,male,BEB,Bengali
+HG03680,male,STU,Tamil
+HG04153,female,BEB,Bengali
+HG03685,male,STU,Tamil
+HG04158,male,BEB,Bengali
+HG03692,female,STU,Tamil
+HG03642,female,STU,Tamil
+HG04209,female,ITU,Telugu
+HG04211,male,ITU,Telugu
+HG04216,female,ITU,Telugu
+HG04177,female,BEB,Bengali
+HG03729,male,ITU,Telugu
+HG04189,female,BEB,Bengali
+HG03731,female,ITU,Telugu
+HG03736,female,STU,Tamil
+HG03965,male,ITU,Telugu
+HG03743,male,STU,Tamil
+HG04094,male,ITU,Telugu
+HG03977,female,ITU,Telugu
+HG04099,female,STU,Tamil
+HG03989,female,STU,Tamil
+HG04107,male,STU,Tamil
+HG03991,male,STU,Tamil
+HG04038,female,STU,Tamil
+HG04037,female,STU,Tamil
+HG04076,female,ITU,Telugu
+HG04056,male,ITU,Telugu
+HG04002,male,ITU,Telugu
+HG04063,female,ITU,Telugu
+HG04014,female,ITU,Telugu
+HG04070,female,ITU,Telugu
+HG04019,male,ITU,Telugu
+HG04075,female,STU,Tamil
+HG04026,female,ITU,Telugu
+HG03875,male,ITU,Telugu
+HG04033,male,STU,Tamil
+HG03882,female,ITU,Telugu
+NA12878,female,CEU,CEPH
+HG03887,male,STU,Tamil
+HG03894,female,STU,Tamil
+HG03899,male,STU,Tamil
+NA18489,female,YRI,Yoruba
+HG03969,male,ITU,Telugu
+NA18504,male,YRI,Yoruba
+HG03971,male,ITU,Telugu
+HG03976,male,ITU,Telugu
+NA18511,female,YRI,Yoruba
+NA18516,male,YRI,Yoruba
+HG03990,male,STU,Tamil
+NA18523,female,YRI,Yoruba
+HG03995,female,STU,Tamil
+NA18528,female,CHB,Han Chinese
+HG03902,male,BEB,Bengali
+NA18530,male,CHB,Han Chinese
+HG03907,female,BEB,Bengali
+NA18535,female,CHB,Han Chinese
+HG03914,male,BEB,Bengali
+NA18542,female,CHB,Han Chinese
+HG03919,female,BEB,Bengali
+NA18547,female,CHB,Han Chinese
+HG03926,male,BEB,Bengali
+NA18559,male,CHB,Han Chinese
+HG04164,male,BEB,Bengali
+NA18561,male,CHB,Han Chinese
+HG04171,female,BEB,Bengali
+NA18566,female,CHB,Han Chinese
+HG04176,male,BEB,Bengali
+NA18573,female,CHB,Han Chinese
+HG04183,female,BEB,Bengali
+NA18592,female,CHB,Han Chinese
+HG04188,male,BEB,Bengali
+NA18597,female,CHB,Han Chinese
+HG04001,female,ITU,Telugu
+NA18605,male,CHB,Han Chinese
+HG04006,male,STU,Tamil
+NA18612,male,CHB,Han Chinese
+HG04018,female,ITU,Telugu
+NA18617,female,CHB,Han Chinese
+HG04020,male,ITU,Telugu
+NA18624,male,CHB,Han Chinese
+HG04025,female,ITU,Telugu
+NA18629,male,CHB,Han Chinese
+HG04140,male,BEB,Bengali
+NA18631,female,CHB,Han Chinese
+HG04152,male,BEB,Bengali
+NA18636,male,CHB,Han Chinese
+NA18643,male,CHB,Han Chinese
+HG03940,female,BEB,Bengali
+NA18648,male,CHB,Han Chinese
+HG03945,female,STU,Tamil
+NA18908,male,YRI,Yoruba
+NA18534,male,CHB,Han Chinese
+NA18910,male,YRI,Yoruba
+NA18539,female,CHB,Han Chinese
+NA18915,male,YRI,Yoruba
+NA18541,female,CHB,Han Chinese
+NA18934,male,YRI,Yoruba
+NA18546,male,CHB,Han Chinese
+NA18939,female,JPT,Japanese
+NA18553,female,CHB,Han Chinese
+NA18941,female,JPT,Japanese
+NA18558,male,CHB,Han Chinese
+NA18946,female,JPT,Japanese
+NA18560,female,CHB,Han Chinese
+NA18953,male,JPT,Japanese
+NA18565,female,CHB,Han Chinese
+NA18960,male,JPT,Japanese
+NA18572,male,CHB,Han Chinese
+NA18965,male,JPT,Japanese
+NA18577,female,CHB,Han Chinese
+NA18591,female,CHB,Han Chinese
+NA18596,female,CHB,Han Chinese
+NA18609,male,CHB,Han Chinese
+NA11832,female,CEU,CEPH
+NA18611,male,CHB,Han Chinese
+NA18616,female,CHB,Han Chinese
+NA11894,female,CEU,CEPH
+NA18623,male,CHB,Han Chinese
+NA11919,male,CEU,CEPH
+NA18628,female,CHB,Han Chinese
+NA11933,female,CEU,CEPH
+NA18630,female,CHB,Han Chinese
+NA11995,female,CEU,CEPH
+NA18635,male,CHB,Han Chinese
+NA12006,female,CEU,CEPH
+NA18642,female,CHB,Han Chinese
+NA12044,female,CEU,CEPH
+NA18647,male,CHB,Han Chinese
+NA12234,female,CEU,CEPH
+NA11829,male,CEU,CEPH
+NA12272,male,CEU,CEPH
+NA11831,male,CEU,CEPH
+NA11843,male,CEU,CEPH
+NA12342,male,CEU,CEPH
+NA11881,male,CEU,CEPH
+NA12347,male,CEU,CEPH
+NA11893,male,CEU,CEPH
+NA12400,female,CEU,CEPH
+NA11918,female,CEU,CEPH
+NA11920,female,CEU,CEPH
+NA11932,male,CEU,CEPH
+NA11994,male,CEU,CEPH
+NA12760,male,CEU,CEPH
+NA12005,male,CEU,CEPH
+NA12777,male,CEU,CEPH
+NA12828,female,CEU,CEPH
+NA12889,male,CEU,CEPH
+NA12830,female,CEU,CEPH
+NA12842,male,CEU,CEPH
+NA18488,female,YRI,Yoruba
+NA12873,female,CEU,CEPH
+NA19026,male,LWK,Luhya
+NA18508,female,YRI,Yoruba
+NA19038,female,LWK,Luhya
+NA18510,male,YRI,Yoruba
+NA19057,female,JPT,Japanese
+NA19064,female,JPT,Japanese
+NA18522,male,YRI,Yoruba
+NA19076,male,JPT,Japanese
+NA18527,female,CHB,Han Chinese
+NA19083,male,JPT,Japanese
+NA19088,male,JPT,Japanese
+NA19090,female,JPT,Japanese
+NA19095,female,YRI,Yoruba
+NA12776,female,CEU,CEPH
+NA18749,male,CHB,Han Chinese
+NA12815,female,CEU,CEPH
+NA12827,male,CEU,CEPH
+NA12872,male,CEU,CEPH
+NA18864,female,YRI,Yoruba
+NA12043,male,CEU,CEPH
+NA12144,male,CEU,CEPH
+NA18871,male,YRI,Yoruba
+NA12156,female,CEU,CEPH
+NA18876,female,YRI,Yoruba
+NA18972,female,JPT,Japanese
+NA12283,female,CEU,CEPH
+NA18977,male,JPT,Japanese
+NA12341,female,CEU,CEPH
+NA18984,male,JPT,Japanese
+NA18989,male,JPT,Japanese
+NA07037,female,CEU,CEPH
+NA18991,female,JPT,Japanese
+NA07051,male,CEU,CEPH
+NA19002,female,JPT,Japanese
+NA07056,female,CEU,CEPH
+NA19007,male,JPT,Japanese
+NA07347,male,CEU,CEPH
+NA19019,female,LWK,Luhya
+NA19153,male,YRI,Yoruba
+NA19160,male,YRI,Yoruba
+NA19172,female,YRI,Yoruba
+NA18748,male,CHB,Han Chinese
+NA18856,male,YRI,Yoruba
+NA19184,male,YRI,Yoruba
+NA19189,male,YRI,Yoruba
+NA18868,male,YRI,Yoruba
+NA18870,female,YRI,Yoruba
+NA19204,female,YRI,Yoruba
+HG04222,male,ITU,Telugu
+NA19209,female,YRI,Yoruba
+HG04227,female,STU,Tamil
+HG04239,male,ITU,Telugu
+NA19350,male,LWK,Luhya
+NA19355,female,LWK,Luhya
+HG04195,female,BEB,Bengali
+NA19374,male,LWK,Luhya
+NA19379,female,LWK,Luhya
+HG04210,male,STU,Tamil
+NA19381,female,LWK,Luhya
+NA19393,male,LWK,Luhya
+NA19037,female,LWK,Luhya
+NA19398,female,LWK,Luhya
+NA19044,male,LWK,"Luhya,Luhya"
+NA19401,female,LWK,Luhya
+NA19056,male,JPT,Japanese
+NA19063,male,JPT,Japanese
+NA19437,female,LWK,Luhya
+NA19068,male,JPT,Japanese
+NA19444,male,LWK,Luhya
+NA19070,male,JPT,Japanese
+NA19449,female,LWK,Luhya
+NA19075,male,JPT,Japanese
+NA19451,male,LWK,Luhya
+NA19082,male,JPT,Japanese
+NA19456,female,LWK,Luhya
+NA19087,female,JPT,Japanese
+NA19463,female,LWK,Luhya
+NA19468,female,LWK,Luhya
+NA19099,female,YRI,Yoruba
+NA19470,female,LWK,Luhya
+NA19222,female,YRI,Yoruba
+NA19475,female,LWK,Luhya
+NA19239,male,YRI,Yoruba
+NA19658,male,MXL,Mexican Ancestry
+NA19309,male,LWK,Luhya
+NA19660,female,MXL,Mexican Ancestry
+NA19311,male,LWK,Luhya
+NA19316,female,LWK,Luhya
+NA19672,female,MXL,Mexican Ancestry
+NA19323,female,LWK,Luhya
+NA19328,female,LWK,Luhya
+NA19684,female,MXL,Mexican Ancestry
+NA19347,male,LWK,Luhya
+NA19704,female,ASW,African Ancestry SW
+NA19359,male,LWK,Luhya
+NA19711,male,ASW,African Ancestry SW
+NA19373,male,LWK,Luhya
+NA19716,female,MXL,Mexican Ancestry
+NA19378,female,LWK,Luhya
+NA19723,male,MXL,Mexican Ancestry
+NA19380,male,LWK,Luhya
+NA19728,female,MXL,Mexican Ancestry
+NA19385,male,LWK,Luhya
+NA19397,male,LWK,Luhya
+NA19735,male,MXL,Mexican Ancestry
+NA19429,male,LWK,Luhya
+NA19785,female,MXL,Mexican Ancestry
+NA19431,female,LWK,Luhya
+NA19792,male,MXL,Mexican Ancestry
+NA19436,female,LWK,Luhya
+NA19443,male,LWK,Luhya
+NA19448,male,LWK,Luhya
+NA19901,female,ASW,African Ancestry SW
+NA18907,female,YRI,Yoruba
+NA19913,female,ASW,African Ancestry SW
+NA18933,female,YRI,Yoruba
+NA19920,male,ASW,African Ancestry SW
+NA18940,male,JPT,"Japanese,Japanese"
+NA19982,male,ASW,African Ancestry SW
+NA18945,male,JPT,Japanese
+NA19223,male,YRI,Yoruba
+NA18952,male,JPT,Japanese
+NA19235,female,YRI,Yoruba
+NA18957,female,JPT,Japanese
+NA19247,female,YRI,Yoruba
+NA18964,female,JPT,Japanese
+NA18969,female,JPT,Japanese
+NA19312,male,LWK,Luhya
+NA18971,male,JPT,Japanese
+NA19317,male,LWK,Luhya
+NA18976,female,JPT,Japanese
+NA19324,female,LWK,Luhya
+NA18983,male,JPT,Japanese
+NA19331,male,LWK,Luhya
+NA18988,male,JPT,Japanese
+NA18990,male,JPT,Japanese
+NA19108,female,YRI,Yoruba
+NA18995,male,JPT,Japanese
+NA19001,female,JPT,Japanese
+NA19006,male,JPT,Japanese
+NA19020,male,LWK,Luhya
+NA19025,male,LWK,Luhya
+NA19141,male,YRI,Yoruba
+NA19152,female,YRI,Yoruba
+NA19146,male,YRI,Yoruba
+NA19171,male,YRI,Yoruba
+NA19747,male,MXL,Mexican Ancestry
+NA19190,female,YRI,Yoruba
+NA19759,male,MXL,Mexican Ancestry
+NA19761,female,MXL,Mexican Ancestry
+NA19210,male,YRI,Yoruba
+NA19773,female,MXL,Mexican Ancestry
+NA19455,male,LWK,Luhya
+NA19780,male,MXL,Mexican Ancestry
+NA19462,female,LWK,Luhya
+NA19467,female,LWK,Luhya
+NA20282,female,ASW,African Ancestry SW
+NA19474,female,LWK,Luhya
+NA20287,female,ASW,African Ancestry SW
+NA19652,male,MXL,Mexican Ancestry
+NA20294,female,ASW,African Ancestry SW
+NA19657,female,MXL,Mexican Ancestry
+NA20299,female,ASW,African Ancestry SW
+NA19664,male,MXL,Mexican Ancestry
+NA19669,female,MXL,Mexican Ancestry
+NA20314,female,ASW,African Ancestry SW
+NA19102,female,YRI,Yoruba
+NA19107,male,YRI,Yoruba
+NA20504,female,TSI,Toscani
+NA19114,female,YRI,Yoruba
+NA20509,male,TSI,Toscani
+NA19119,male,YRI,Yoruba
+NA20511,male,TSI,Toscani
+NA19121,male,YRI,Yoruba
+NA20516,male,TSI,Toscani
+NA19138,male,YRI,Yoruba
+NA20528,male,TSI,Toscani
+NA20530,female,TSI,Toscani
+NA20535,female,TSI,Toscani
+NA19676,male,MXL,Mexican Ancestry
+NA20542,female,TSI,Toscani
+NA20585,female,TSI,Toscani
+NA19703,male,ASW,African Ancestry SW
+NA20756,female,TSI,Toscani
+NA20763,male,TSI,Toscani
+NA19722,female,MXL,Mexican Ancestry
+NA20768,female,TSI,Toscani
+NA20770,male,TSI,Toscani
+NA19734,female,MXL,Mexican Ancestry
+NA20775,female,TSI,Toscani
+NA20414,female,ASW,African Ancestry SW
+NA20787,male,TSI,Toscani
+NA20503,female,TSI,Toscani
+NA20799,female,TSI,Toscani
+NA20508,female,TSI,Toscani
+NA20802,female,TSI,Toscani
+NA20510,male,TSI,Toscani
+NA20807,female,TSI,Toscani
+NA20515,male,TSI,Toscani
+NA20814,male,TSI,Toscani
+NA20522,female,TSI,Toscani
+NA20819,female,TSI,Toscani
+NA20527,male,TSI,Toscani
+NA20821,female,TSI,Toscani
+NA20534,male,TSI,Toscani
+NA20826,female,TSI,Toscani
+NA20539,male,TSI,Toscani
+NA20845,male,GIH,Gujarati
+NA20541,female,TSI,Toscani
+NA20589,female,TSI,Toscani
+NA21141,female,GIH,Gujarati
+NA20755,male,TSI,Toscani
+NA19789,male,MXL,Mexican Ancestry
+NA20321,female,ASW,African Ancestry SW
+NA20340,male,ASW,African Ancestry SW
+NA19835,female,ASW,African Ancestry SW
+NA19900,male,ASW,African Ancestry SW
+NA20357,female,ASW,African Ancestry SW
+NA20895,male,GIH,Gujarati
+NA19917,female,ASW,African Ancestry SW
+NA20903,male,GIH,Gujarati
+NA20908,female,GIH,Gujarati
+NA20762,male,TSI,Toscani
+NA20910,female,GIH,Gujarati
+NA20767,male,TSI,Toscani
+NA21088,female,GIH,Gujarati
+NA20774,female,TSI,Toscani
+NA20852,male,GIH,Gujarati
+NA20786,female,TSI,Toscani
+NA20864,male,GIH,Gujarati
+NA20798,male,TSI,Toscani
+NA20869,female,GIH,Gujarati
+NA20801,male,TSI,Toscani
+NA20871,male,GIH,Gujarati
+NA20806,male,TSI,Toscani
+NA21108,female,GIH,Gujarati
+NA20813,female,TSI,Toscani
+NA21110,female,GIH,Gujarati
+NA20818,female,TSI,Toscani
+NA21115,male,GIH,Gujarati
+NA20832,female,TSI,Toscani
+NA21122,female,GIH,Gujarati
+NA21127,male,GIH,Gujarati
+NA20274,female,ASW,African Ancestry SW
+NA20876,female,GIH,Gujarati
+NA20883,male,GIH,Gujarati
+NA20281,male,ASW,African Ancestry SW
+NA20888,female,GIH,Gujarati
+NA20298,male,ASW,African Ancestry SW
+NA20890,male,GIH,Gujarati
+NA21090,male,GIH,Gujarati
+NA21095,male,GIH,Gujarati
+NA20318,male,ASW,African Ancestry SW
+NA21103,female,GIH,Gujarati
+NA20320,female,ASW,African Ancestry SW
+NA20332,female,ASW,African Ancestry SW
+NA20344,female,ASW,African Ancestry SW
+NA20351,male,ASW,African Ancestry SW
+NA20356,male,ASW,African Ancestry SW
+NA20363,female,ASW,African Ancestry SW
+NA19741,male,MXL,Mexican Ancestry
+NA19746,female,MXL,Mexican Ancestry
+NA19753,male,MXL,Mexican Ancestry
+NA19758,female,MXL,Mexican Ancestry
+NA19777,male,MXL,Mexican Ancestry
+NA20849,female,GIH,Gujarati
+NA20851,female,GIH,Gujarati
+NA20856,female,GIH,Gujarati
+NA20863,male,GIH,Gujarati
+NA20868,female,GIH,Gujarati
+NA20870,male,GIH,Gujarati
+NA20894,female,GIH,Gujarati
+NA20899,female,GIH,Gujarati
+NA20902,female,GIH,Gujarati
+NA21087,male,GIH,Gujarati
+NA20875,female,GIH,Gujarati
+NA20882,female,GIH,Gujarati
+NA20887,male,GIH,Gujarati
+NA21133,male,GIH,Gujarati
+NA21114,male,GIH,Gujarati
+NA21119,male,GIH,Gujarati
+NA21121,female,GIH,Gujarati
+NA21126,male,GIH,Gujarati
+NA21094,male,GIH,Gujarati
+NA21099,male,GIH,Gujarati
+NA21102,female,GIH,Gujarati
+NA21107,male,GIH,Gujarati
+HG00152,male,GBR,British
+HG00157,male,GBR,British
+HG00171,female,FIN,Finnish
+HG00176,female,FIN,Finnish
+HG00183,male,FIN,Finnish
+HG00188,male,FIN,Finnish
+HG00190,male,FIN,"Finnish,Finnish"
+HG00234,male,GBR,British
+HG00239,female,GBR,British
+HG00246,male,GBR,British
+HG00253,female,GBR,British
+HG00258,female,GBR,British
+HG00260,male,GBR,British
+HG00265,male,GBR,British
+HG00272,female,FIN,Finnish
+HG00277,male,FIN,Finnish
+HG00284,male,FIN,Finnish
+HG00479,female,CHS,Southern Han Chinese
+HG00501,female,CHS,Southern Han Chinese
+HG00513,female,CHS,Southern Han Chinese
+HG00525,female,CHS,Southern Han Chinese
+HG00104,female,GBR,British
+HG00537,female,CHS,Southern Han Chinese
+HG00109,male,GBR,British
+HG00111,female,GBR,British
+HG00551,female,PUR,Puerto Rican
+HG00116,male,GBR,British
+HG00556,male,CHS,Southern Han Chinese
+HG00123,female,GBR,British
+HG00128,female,GBR,"British,English"
+HG00099,female,GBR,British
+HG00130,female,GBR,British
+HG00102,female,GBR,British
+HG00135,female,GBR,British
+HG00107,male,GBR,British
+HG00142,male,GBR,British
+HG00114,male,GBR,British
+HG00147,female,GBR,British
+HG00119,male,GBR,British
+HG00154,female,GBR,British
+HG00121,female,GBR,British
+HG00159,male,GBR,British
+HG00126,male,GBR,"British,English"
+HG00173,female,FIN,Finnish
+HG00133,female,GBR,British
+HG00178,female,FIN,Finnish
+HG00138,male,GBR,British
+HG00180,female,FIN,Finnish
+HG00140,male,GBR,British
+HG00185,male,FIN,Finnish
+HG00145,male,GBR,British
+HG00231,female,GBR,British
+HG00304,female,FIN,Finnish
+HG00236,female,GBR,British
+HG00309,female,FIN,Finnish
+HG00243,male,GBR,British
+HG00311,male,FIN,Finnish
+HG00318,female,FIN,Finnish
+HG00323,female,FIN,Finnish
+HG00320,female,FIN,Finnish
+HG00328,female,FIN,Finnish
+HG00325,male,FIN,Finnish
+HG00330,female,FIN,Finnish
+HG00332,female,FIN,Finnish
+HG00335,male,FIN,Finnish
+HG00337,female,FIN,Finnish
+HG00342,male,FIN,Finnish
+HG00344,female,FIN,Finnish
+HG00359,female,FIN,Finnish
+HG00349,female,FIN,Finnish
+HG00361,female,FIN,Finnish
+HG00351,male,FIN,Finnish
+HG00366,male,FIN,Finnish
+HG00356,female,FIN,Finnish
+HG00373,female,FIN,Finnish
+HG00368,female,FIN,Finnish
+HG00378,female,FIN,Finnish
+HG00375,male,FIN,Finnish
+HG00380,female,FIN,Finnish
+HG00382,male,FIN,Finnish
+HG00407,female,CHS,Southern Han Chinese
+HG00599,female,CHS,Southern Han Chinese
+HG00419,female,CHS,Southern Han Chinese
+HG00607,male,CHS,Southern Han Chinese
+HG00421,male,CHS,Southern Han Chinese
+HG00614,female,CHS,Southern Han Chinese
+HG00553,male,PUR,Puerto Rican
+HG00619,male,CHS,Southern Han Chinese
+HG00560,female,CHS,Southern Han Chinese
+HG00626,female,CHS,Southern Han Chinese
+HG00565,male,CHS,Southern Han Chinese
+HG00577,male,CHS,Southern Han Chinese
+HG00584,female,CHS,Southern Han Chinese
+HG00589,male,CHS,Southern Han Chinese
+HG00436,male,CHS,Southern Han Chinese
+HG00443,female,CHS,Southern Han Chinese
+HG00596,female,CHS,Southern Han Chinese
+HG00448,male,CHS,Southern Han Chinese
+HG00611,female,CHS,Southern Han Chinese
+HG00638,female,PUR,Puerto Rican
+HG00250,female,GBR,British
+HG00640,male,PUR,Puerto Rican
+HG00255,female,GBR,British
+HG00262,female,GBR,British
+HG00657,female,CHS,Southern Han Chinese
+HG00267,male,FIN,Finnish
+HG00274,female,FIN,Finnish
+HG00671,male,CHS,Southern Han Chinese
+HG00281,female,FIN,Finnish
+HG00306,female,FIN,Finnish
+HG00683,male,CHS,Southern Han Chinese
+HG00313,female,FIN,Finnish
+HG00690,female,CHS,Southern Han Chinese
+HG01326,female,PUR,Puerto Rican
+HG00445,male,CHS,Southern Han Chinese
+HG01345,female,CLM,Colombian
+HG00452,female,CHS,Southern Han Chinese
+HG00457,male,CHS,Southern Han Chinese
+HG01357,female,CLM,Colombian
+HG00464,female,CHS,Southern Han Chinese
+HG00476,female,CHS,Southern Han Chinese
+HG01369,female,CLM,Colombian
+HG00534,female,CHS,Southern Han Chinese
+HG00096,male,GBR,British
+HG01112,male,CLM,Colombian
+HG00729,female,CHS,Southern Han Chinese
+HG01124,male,CLM,Colombian
+HG00731,male,PUR,Puerto Rican
+HG01131,female,CLM,Colombian
+HG00736,male,PUR,Puerto Rican
+HG01136,male,CLM,Colombian
+HG00743,female,PUR,Puerto Rican
+HG01148,male,CLM,Colombian
+HG00844,male,CDX,Dai Chinese
+HG00851,female,CDX,Dai Chinese
+HG01162,female,PUR,Puerto Rican
+HG00983,male,CDX,Dai Chinese
+HG01167,male,PUR,Puerto Rican
+HG01082,male,PUR,Puerto Rican
+HG01066,male,PUR,Puerto Rican
+HG01073,female,PUR,Puerto Rican
+HG01094,male,PUR,Puerto Rican
+HG01080,female,PUR,Puerto Rican
+HG01085,male,PUR,Puerto Rican
+HG01102,female,PUR,Puerto Rican
+HG01092,female,PUR,Puerto Rican
+HG01107,male,PUR,Puerto Rican
+HG01097,male,PUR,Puerto Rican
+HG01119,female,CLM,Colombian
+HG01105,female,PUR,Puerto Rican
+HG01121,male,CLM,Colombian
+HG01174,female,PUR,Puerto Rican
+HG01198,female,PUR,Puerto Rican
+HG01133,male,CLM,Colombian
+HG01140,female,CLM,Colombian
+HG01251,female,CLM,Colombian
+HG01164,male,PUR,Puerto Rican
+HG01256,male,CLM,Colombian
+HG01171,female,PUR,Puerto Rican
+HG00708,female,CHS,Southern Han Chinese
+HG01176,male,PUR,Puerto Rican
+HG00734,female,PUR,Puerto Rican
+HG01183,female,PUR,Puerto Rican
+HG00739,male,PUR,Puerto Rican
+HG01188,female,PUR,Puerto Rican
+HG01190,male,PUR,Puerto Rican
+HG00866,male,CDX,Dai Chinese
+HG00623,female,CHS,Southern Han Chinese
+HG01028,male,CDX,Dai Chinese
+HG00628,male,CHS,Southern Han Chinese
+HG01047,male,PUR,Puerto Rican
+HG01054,male,PUR,Puerto Rican
+HG00635,female,CHS,Southern Han Chinese
+HG01061,female,PUR,Puerto Rican
+HG01383,male,CLM,Colombian
+HG00654,female,CHS,Southern Han Chinese
+HG01390,female,CLM,Colombian
+HG01395,male,PUR,Puerto Rican
+HG01241,male,PUR,Puerto Rican
+HG01403,female,PUR,Puerto Rican
+HG01253,male,CLM,Colombian
+HG01275,female,CLM,Colombian
+HG01260,female,CLM,Colombian
+HG01302,male,PUR,Puerto Rican
+HG01272,female,CLM,Colombian
+HG01504,female,IBS,"Iberian,Spanish"
+HG01277,male,CLM,Colombian
+HG01509,male,IBS,Iberian
+HG01354,female,CLM,Colombian
+HG01359,male,CLM,Colombian
+HG01516,female,IBS,Iberian
+HG01366,female,CLM,Colombian
+HG01528,female,IBS,Iberian
+HG01378,female,CLM,Colombian
+HG01597,female,KHV,Kinh Vietnamese
+HG01600,female,KHV,"Kinh,Kinh Vietnamese"
+HG01392,male,PUR,Puerto Rican
+HG01605,female,IBS,Iberian
+HG01049,female,PUR,Puerto Rican
+HG01612,female,IBS,Iberian
+HG01051,male,PUR,Puerto Rican
+HG01530,male,IBS,Iberian
+HG01566,female,PEL,Peruvian
+HG01063,male,PUR,Puerto Rican
+HG01578,female,PEL,Peruvian
+HG01070,female,PUR,Puerto Rican
+HG01617,male,IBS,Iberian
+HG01075,male,PUR,Puerto Rican
+HG01624,male,IBS,Iberian
+HG01631,male,IBS,Iberian
+HG00692,male,CHS,Southern Han Chinese
+HG00705,female,CHS,Southern Han Chinese
+HG00717,female,CHS,Southern Han Chinese
+HG01284,female,CLM,Colombian
+HG01489,female,CLM,Colombian
+HG01311,male,PUR,Puerto Rican
+HG01491,male,CLM,Colombian
+HG01323,female,PUR,Puerto Rican
+HG01342,female,CLM,Colombian
+HG01679,female,IBS,Iberian
+HG01347,male,CLM,Colombian
+HG01599,female,KHV,Kinh Vietnamese
+HG01686,male,IBS,Iberian
+HG01602,female,IBS,Iberian
+HG01607,female,IBS,Iberian
+HG01768,female,IBS,Iberian
+HG01619,male,IBS,Iberian
+HG01770,female,IBS,Iberian
+HG01775,male,IBS,Iberian
+HG01626,female,IBS,Iberian
+HG01486,female,CLM,Colombian
+HG01498,female,CLM,Colombian
+HG01441,female,CLM,Colombian
+HG01501,female,IBS,Iberian
+HG01506,male,IBS,Iberian
+HG01465,female,CLM,Colombian
+HG01513,female,IBS,Iberian
+HG01518,male,IBS,Iberian
+HG01756,male,IBS,Iberian
+HG01525,female,IBS,Iberian
+HG01953,male,PEL,Peruvian
+HG01537,female,IBS,Iberian
+HG01958,female,ACB,African Caribbean
+HG01405,male,PUR,Puerto Rican
+HG01965,female,PEL,Peruvian
+HG01412,male,PUR,Puerto Rican
+HG01431,male,CLM,Colombian
+HG01977,male,PEL,Peruvian
+HG01443,male,CLM,Colombian
+HG01455,male,CLM,Colombian
+HG01989,female,ACB,African Caribbean
+HG01462,female,CLM,Colombian
+HG01474,female,CLM,Colombian
+HG01927,female,PEL,Peruvian
+HG01479,male,CLM,Colombian
+HG01939,female,PEL,Peruvian
+HG01551,female,CLM,Colombian
+HG01941,male,PEL,Peruvian
+HG01556,male,CLM,Colombian
+HG01864,male,KHV,Kinh Vietnamese
+HG01869,female,KHV,Kinh Vietnamese
+HG01871,female,KHV,Kinh Vietnamese
+HG01669,male,IBS,Iberian
+HG01883,female,ACB,African Caribbean
+HG02019,female,KHV,Kinh Vietnamese
+HG01676,female,IBS,Iberian
+HG02026,male,KHV,Kinh Vietnamese
+HG01695,female,IBS,Iberian
+HG02040,male,KHV,Kinh Vietnamese
+HG01708,male,IBS,Iberian
+HG01890,male,ACB,African Caribbean
+HG01710,female,IBS,Iberian
+HG01746,female,IBS,Iberian
+HG01915,female,ACB,African Caribbean
+HG01765,male,IBS,Iberian
+HG01991,male,PEL,Peruvian
+HG02002,male,PEL,Peruvian
+HG02014,male,ACB,African Caribbean
+HG01840,male,KHV,Kinh Vietnamese
+HG02009,male,ACB,African Caribbean
+HG01845,female,KHV,Kinh Vietnamese
+HG01852,male,KHV,Kinh Vietnamese
+HG02016,female,KHV,Kinh Vietnamese
+HG01857,female,KHV,Kinh Vietnamese
+HG02023,male,KHV,Kinh Vietnamese
+HG01794,female,CDX,Dai Chinese
+HG01777,male,IBS,Iberian
+HG01799,female,CDX,Dai Chinese
+HG01784,female,IBS,Iberian
+HG01802,female,CDX,Dai Chinese
+HG01789,male,GBR,British
+HG01807,female,CDX,Dai Chinese
+HG01791,male,GBR,British
+HG02076,male,KHV,Kinh Vietnamese
+HG01796,female,CDX,Dai Chinese
+HG01974,male,PEL,Peruvian
+HG02088,male,KHV,Kinh Vietnamese
+HG01979,male,PEL,Peruvian
+HG02090,male,PEL,Peruvian
+HG02095,female,ACB,African Caribbean
+HG01986,male,ACB,African Caribbean
+HG02278,female,PEL,Peruvian
+HG01892,male,PEL,Peruvian
+HG02285,male,PEL,Peruvian
+HG02292,female,PEL,Peruvian
+HG01912,male,ACB,African Caribbean
+HG01917,male,PEL,Peruvian
+HG02139,female,KHV,Kinh Vietnamese
+HG01924,female,PEL,Peruvian
+HG02141,male,KHV,Kinh Vietnamese
+HG01866,male,KHV,Kinh Vietnamese
+HG02146,male,PEL,Peruvian
+HG01873,male,KHV,Kinh Vietnamese
+HG02153,female,CDX,Dai Chinese
+HG01878,female,KHV,Kinh Vietnamese
+HG02052,female,ACB,African Caribbean
+HG01880,female,ACB,African Caribbean
+HG02057,female,KHV,Kinh Vietnamese
+HG01885,male,ACB,African Caribbean
+HG02064,male,KHV,Kinh Vietnamese
+HG01948,female,PEL,Peruvian
+HG02069,female,KHV,Kinh Vietnamese
+HG01950,male,PEL,Peruvian
+HG01967,male,PEL,Peruvian
+HG02259,male,PEL,Peruvian
+HG00153,female,GBR,British
+HG01936,female,PEL,Peruvian
+HG00158,female,GBR,British
+HG02266,female,PEL,Peruvian
+HG00160,male,GBR,British
+HG01842,male,KHV,Kinh Vietnamese
+HG00177,female,FIN,Finnish
+HG01847,female,KHV,Kinh Vietnamese
+HG02108,female,ACB,African Caribbean
+HG00189,male,FIN,Finnish
+HG01859,female,KHV,Kinh Vietnamese
+HG02122,male,KHV,Kinh Vietnamese
+HG00235,female,GBR,British
+HG01861,male,KHV,Kinh Vietnamese
+HG02127,female,KHV,Kinh Vietnamese
+HG00242,male,GBR,British
+HG01804,female,CDX,Dai Chinese
+HG02134,male,KHV,Kinh Vietnamese
+HG00247,female,GBR,British
+HG01809,female,CDX,Dai Chinese
+HG02312,female,PEL,Peruvian
+HG00254,female,GBR,British
+HG01811,male,CDX,Dai Chinese
+HG02317,male,ACB,African Caribbean
+HG00259,female,GBR,British
+HG01816,male,CDX,Dai Chinese
+HG02343,male,ACB,African Caribbean
+HG00261,female,GBR,British
+HG02282,female,ACB,African Caribbean
+HG02223,female,IBS,Iberian
+HG00266,female,FIN,Finnish
+HG02230,female,IBS,Iberian
+HG00273,male,FIN,Finnish
+HG02299,male,PEL,Peruvian
+HG02235,female,IBS,Iberian
+HG00278,male,FIN,Finnish
+HG02302,male,PEL,Peruvian
+HG02165,female,CDX,Dai Chinese
+HG00280,male,FIN,Finnish
+HG02307,male,ACB,African Caribbean
+HG02184,female,CDX,Dai Chinese
+HG00285,female,FIN,Finnish
+HG02143,male,ACB,African Caribbean
+HG02189,female,CDX,Dai Chinese
+HG00103,male,GBR,British
+HG00108,male,GBR,British
+HG02150,male,PEL,Peruvian
+HG02691,female,PJL,Punjabi
+HG00110,female,GBR,British
+HG02155,female,CDX,Dai Chinese
+HG02696,male,PJL,Punjabi
+HG00115,male,GBR,British
+HG02028,female,KHV,Kinh Vietnamese
+HG00122,female,GBR,British
+HG02716,female,GWD,Gambian Mandinka
+HG00127,female,GBR,British
+HG02035,male,KHV,Kinh Vietnamese
+HG00134,female,GBR,British
+HG02047,male,KHV,Kinh Vietnamese
+HG02728,female,PJL,Punjabi
+HG00139,male,GBR,British
+HG02054,female,ACB,African Caribbean
+HG02603,male,PJL,Punjabi
+HG00141,male,GBR,British
+HG02610,male,GWD,Gambian Mandinka
+HG00146,female,GBR,British
+HG02061,male,KHV,Kinh Vietnamese
+HG00312,male,FIN,Finnish
+HG02073,male,KHV,Kinh Vietnamese
+HG00324,female,FIN,Finnish
+HG02078,female,KHV,Kinh Vietnamese
+HG02634,male,GWD,Gambian Mandinka
+HG00329,male,FIN,Finnish
+HG02179,female,CDX,Dai Chinese
+HG02646,female,GWD,Gambian Mandinka
+HG00331,female,FIN,Finnish
+HG02181,female,CDX,Dai Chinese
+HG02557,male,ACB,African Caribbean
+HG00336,male,FIN,Finnish
+HG02186,female,CDX,Dai Chinese
+HG00343,female,FIN,Finnish
+HG02571,female,GWD,Gambian Mandinka
+HG00350,female,FIN,Finnish
+HG02220,female,IBS,Iberian
+HG02583,female,GWD,Gambian Mandinka
+HG00355,female,FIN,Finnish
+HG02588,male,GWD,Gambian Mandinka
+HG00362,female,FIN,Finnish
+HG02085,male,KHV,Kinh Vietnamese
+HG00367,female,FIN,Finnish
+HG02105,female,PEL,Peruvian
+HG02595,female,GWD,Gambian Mandinka
+HG00475,male,CHS,Southern Han Chinese
+HG02420,male,ACB,African Caribbean
+HG02131,male,KHV,Kinh Vietnamese
+HG02425,female,PEL,Peruvian
+HG02136,female,KHV,Kinh Vietnamese
+HG02449,male,ACB,African Caribbean
+HG00533,male,CHS,Southern Han Chinese
+HG02232,female,IBS,Iberian
+HG02348,female,PEL,Peruvian
+HG02256,female,ACB,African Caribbean
+HG02355,male,CDX,Dai Chinese
+HG00557,female,CHS,Southern Han Chinese
+HG02275,female,PEL,Peruvian
+HG02367,male,CDX,Dai Chinese
+HG00583,male,CHS,Southern Han Chinese
+HG02374,male,CDX,Dai Chinese
+HG00379,female,FIN,Finnish
+HG02379,male,CDX,Dai Chinese
+HG00381,female,FIN,Finnish
+HG02624,female,GWD,Gambian Mandinka
+HG02381,male,CDX,Dai Chinese
+HG00406,male,CHS,Southern Han Chinese
+HG02629,female,GWD,Gambian Mandinka
+HG00418,male,CHS,Southern Han Chinese
+HG02658,female,PJL,Punjabi
+HG02643,female,GWD,Gambian Mandinka
+HG02660,male,PJL,Punjabi
+HG00437,female,CHS,Southern Han Chinese
+HG02648,male,PJL,Punjabi
+HG02684,male,PJL,Punjabi
+HG00449,female,CHS,Southern Han Chinese
+HG02655,female,PJL,Punjabi
+HG02502,female,ACB,African Caribbean
+HG00451,male,CHS,Southern Han Chinese
+HG00463,male,CHS,Southern Han Chinese
+HG02561,male,GWD,Gambian Mandinka
+HG02521,male,KHV,Kinh Vietnamese
+HG02573,male,GWD,Gambian Mandinka
+HG00641,female,PUR,Puerto Rican
+HG02580,female,ACB,African Caribbean
+HG02545,male,ACB,African Caribbean
+HG00653,male,CHS,Southern Han Chinese
+HG02585,male,GWD,Gambian Mandinka
+HG02470,male,ACB,African Caribbean
+HG02597,male,PJL,Punjabi
+HG02494,female,PJL,"Punjabi,Punjabi"
+HG00672,female,CHS,Southern Han Chinese
+HG02600,male,PJL,Punjabi
+HG02386,male,CDX,Dai Chinese
+HG00684,female,CHS,Southern Han Chinese
+HG02398,male,CDX,Dai Chinese
+HG00689,male,CHS,Southern Han Chinese
+HG02667,female,GWD,Gambian Mandinka
+HG02401,male,CDX,Dai Chinese
+HG02679,female,GWD,Gambian Mandinka
+HG02406,male,CDX,Dai Chinese
+HG00867,female,CDX,Dai Chinese
+HG02681,male,PJL,Punjabi
+HG00879,female,CDX,Dai Chinese
+HG02792,male,PJL,Punjabi
+HG00881,male,CDX,Dai Chinese
+HG00956,female,CDX,Dai Chinese
+HG02427,female,ACB,African Caribbean
+HG02805,female,GWD,Gambian Mandinka
+HG00982,male,CDX,Dai Chinese
+HG02439,male,ACB,African Caribbean
+HG01029,female,CDX,Dai Chinese
+HG02465,female,GWD,Gambian Mandinka
+HG02817,female,GWD,Gambian Mandinka
+HG01031,male,CDX,Dai Chinese
+HG02477,female,ACB,African Caribbean
+HG01048,male,PUR,Puerto Rican
+HG02484,male,ACB,African Caribbean
+HG02759,male,GWD,Gambian Mandinka
+HG02489,male,ACB,African Caribbean
+HG01055,female,PUR,Puerto Rican
+HG02491,female,PJL,Punjabi
+HG02496,male,ACB,African Caribbean
+HG02778,female,PJL,Punjabi
+HG00704,male,CHS,Southern Han Chinese
+HG02511,female,ACB,African Caribbean
+HG02780,male,PJL,Punjabi
+HG00716,male,CHS,Southern Han Chinese
+HG02982,male,GWD,Gambian Mandinka
+HG00728,male,CHS,Southern Han Chinese
+HG02554,male,ACB,African Caribbean
+HG03012,male,BEB,Bengali
+HG02388,male,CDX,Dai Chinese
+HG02390,male,CDX,Dai Chinese
+HG02836,male,GWD,Gambian Mandinka
+HG00742,male,PUR,Puerto Rican
+HG02395,male,CDX,Dai Chinese
+HG02855,female,GWD,Gambian Mandinka
+HG00759,female,CDX,Dai Chinese
+HG02408,male,CDX,Dai Chinese
+HG00766,female,CDX,Dai Chinese
+HG02410,male,CDX,Dai Chinese
+HG02879,female,GWD,Gambian Mandinka
+HG00590,female,CHS,Southern Han Chinese
+HG02314,male,ACB,African Caribbean
+HG02881,male,GWD,Gambian Mandinka
+HG00595,male,CHS,Southern Han Chinese
+HG00608,female,CHS,Southern Han Chinese
+HG02345,female,PEL,Peruvian
+HG03024,male,GWD,Gambian Mandinka
+HG00610,male,CHS,Southern Han Chinese
+HG02364,male,CDX,Dai Chinese
+HG02371,male,CDX,Dai Chinese
+HG03048,male,GWD,Gambian Mandinka
+HG00622,male,CHS,Southern Han Chinese
+HG02383,male,CDX,Dai Chinese
+HG02819,male,GWD,Gambian Mandinka
+HG03055,female,MSL,Mende
+HG00634,male,CHS,Southern Han Chinese
+HG01170,male,PUR,Puerto Rican
+HG02840,female,GWD,Gambian Mandinka
+HG01182,male,PUR,Puerto Rican
+HG02852,female,GWD,Gambian Mandinka
+HG03118,male,ESN,Esan
+HG01187,male,PUR,Puerto Rican
+HG03120,male,ESN,Esan
+HG03132,female,ESN,Esan
+HG01257,female,CLM,Colombian
+HG02888,female,GWD,Gambian Mandinka
+HG01067,female,PUR,Puerto Rican
+HG02890,male,GWD,Gambian Mandinka
+HG02895,male,GWD,Gambian Mandinka
+HG03074,male,MSL,Mende
+HG01079,male,PUR,Puerto Rican
+HG02922,female,ESN,Esan
+HG03079,female,MSL,Mende
+HG03081,male,MSL,Mende
+HG01086,female,PUR,Puerto Rican
+HG02977,male,ESN,Esan
+HG03086,female,MSL,Mende
+HG01098,female,PUR,Puerto Rican
+HG02944,male,ESN,Esan
+HG01101,male,PUR,Puerto Rican
+HG03007,female,BEB,"Bengali,Bengali"
+HG02968,male,ESN,Esan
+HG03019,female,PJL,Punjabi
+HG02970,female,ESN,Esan
+HG01113,female,CLM,Colombian
+HG03021,male,PJL,Punjabi
+HG01125,female,CLM,Colombian
+HG03461,female,MSL,Mende
+HG01137,female,CLM,Colombian
+HG01149,female,CLM,Colombian
+HG03040,female,GWD,Gambian Mandinka
+HG03473,female,MSL,Mende
+HG01168,female,PUR,Puerto Rican
+HG03045,male,GWD,Gambian Mandinka
+HG03478,male,MSL,Mende
+HG03052,female,MSL,Mende
+HG01334,male,GBR,British
+HG03057,male,MSL,Mende
+HG03485,female,MSL,Mende
+HG01341,male,CLM,Colombian
+HG02737,female,PJL,Punjabi
+HG03240,male,GWD,Gambian Mandinka
+HG02756,male,GWD,Gambian Mandinka
+HG01353,male,CLM,Colombian
+HG02763,female,GWD,Gambian Mandinka
+HG03271,male,ESN,Esan
+HG02768,male,GWD,Gambian Mandinka
+HG03295,male,ESN,Esan
+HG01360,female,CLM,Colombian
+HG03303,female,ESN,Esan
+HG01365,male,CLM,Colombian
+HG02775,female,PJL,Punjabi
+HG01372,female,CLM,Colombian
+HG02787,female,PJL,Punjabi
+HG01377,male,CLM,Colombian
+HG02799,female,GWD,Gambian Mandinka
+HG03163,male,ESN,Esan
+HG01531,female,IBS,Iberian
+HG02807,male,GWD,Gambian Mandinka
+HG03168,female,ESN,Esan
+HG01536,male,IBS,Iberian
+HG02814,female,GWD,Gambian Mandinka
+HG01550,male,CLM,Colombian
+HG03064,female,MSL,Mende
+HG03175,male,ESN,Esan
+HG03069,male,MSL,Mende
+HG03076,female,MSL,Mende
+HG03199,male,ESN,Esan
+HG01586,male,PJL,Punjabi
+HG03088,female,MSL,Mende
+HG03202,male,ESN,Esan
+HG01435,female,CLM,Colombian
+HG03095,female,MSL,Mende
+HG03238,female,PJL,Punjabi
+HG01447,female,CLM,Colombian
+HG02941,male,ESN,Esan
+HG03517,female,ESN,Esan
+HG02946,female,ESN,Esan
+HG03428,female,MSL,Mende
+HG01459,female,CLM,Colombian
+HG02953,male,ESN,Esan
+HG03442,male,MSL,Mende
+HG01461,male,CLM,Colombian
+HG01593,female,PJL,Punjabi
+HG01598,female,KHV,Kinh Vietnamese
+HG02725,female,PJL,Punjabi
+HG03372,female,ESN,Esan
+HG03103,male,ESN,Esan
+HG01606,male,IBS,Iberian
+HG03108,female,ESN,Esan
+HG03391,male,MSL,Mende
+HG01613,female,IBS,Iberian
+HG01384,female,CLM,Colombian
+HG03115,male,ESN,Esan
+HG03644,male,STU,Tamil
+HG01389,male,CLM,Colombian
+HG03649,male,PJL,Punjabi
+HG03247,female,GWD,Gambian Mandinka
+HG01396,female,PUR,Puerto Rican
+HG03259,female,GWD,Gambian Mandinka
+HG03663,male,PJL,Punjabi
+HG03280,male,ESN,Esan
+HG03668,female,PJL,Punjabi
+HG01269,female,CLM,Colombian
+HG03196,male,ESN,Esan
+HG01271,male,CLM,Colombian
+HG03209,male,MSL,Mende
+HG03228,male,PJL,Punjabi
+HG03733,female,STU,Tamil
+HG01303,female,PUR,Puerto Rican
+HG03738,male,STU,Tamil
+HG01308,male,PUR,Puerto Rican
+HG03235,female,PJL,Punjabi
+HG03740,male,STU,Tamil
+HG03432,male,MSL,Mende
+HG03745,male,STU,Tamil
+HG03437,female,MSL,Mende
+HG03606,male,BEB,Bengali
+HG03449,female,MSL,Mende
+HG01485,male,CLM,Colombian
+HG03451,male,MSL,Mende
+HG01492,female,CLM,Colombian
+HG03625,female,PJL,Punjabi
+HG01497,male,CLM,Colombian
+HG03343,male,ESN,Esan
+HG01500,male,IBS,Iberian
+HG03702,male,PJL,Punjabi
+HG01618,female,IBS,Iberian
+HG01620,female,IBS,Iberian
+HG03367,male,ESN,Esan
+HG03714,female,ITU,Telugu
+HG01625,male,IBS,Iberian
+HG03752,female,STU,Tamil
+HG01632,female,IBS,Iberian
+HG03757,female,STU,Tamil
+HG01668,female,IBS,Iberian
+HG03127,male,ESN,Esan
+HG01670,female,IBS,Iberian
+HG03771,male,ITU,Telugu
+HG01675,male,IBS,Iberian
+HG03139,male,ESN,Esan
+HG03788,male,ITU,Telugu
+HG01512,male,IBS,Iberian
+HG03297,female,ESN,Esan
+HG03790,male,ITU,Telugu
+HG03300,female,ESN,Esan
+HG01524,male,IBS,Iberian
+HG01815,female,CDX,Dai Chinese
+HG03593,male,BEB,Bengali
+HG01841,female,KHV,Kinh Vietnamese
+HG03160,male,ESN,Esan
+HG03598,female,BEB,Bengali
+HG01846,male,KHV,"Kinh,Kinh Vietnamese"
+HG03172,male,ESN,Esan
+HG03548,female,MSL,Mende
+HG01853,female,KHV,Kinh Vietnamese
+HG03189,female,ESN,Esan
+HG03567,female,MSL,Mende
+HG01858,female,KHV,Kinh Vietnamese
+HG01860,male,KHV,Kinh Vietnamese
+HG03687,male,STU,Tamil
+HG01771,male,IBS,Iberian
+HG03694,male,STU,Tamil
+HG01776,female,IBS,Iberian
+HG03401,female,MSL,Mende
+HG03973,female,ITU,Telugu
+HG01783,male,IBS,Iberian
+HG03978,male,ITU,Telugu
+HG01790,female,GBR,British
+HG03470,female,MSL,Mende
+HG03985,male,STU,Tamil
+HG01947,male,PEL,Peruvian
+HG03538,male,GWD,Gambian Mandinka
+HG01954,female,PEL,Peruvian
+HG03557,female,MSL,Mende
+HG03911,male,BEB,Bengali
+HG01961,male,PEL,Peruvian
+HG03916,female,BEB,Bengali
+HG01682,male,IBS,Iberian
+HG03928,female,BEB,Bengali
+HG03571,male,MSL,Mende
+HG03884,female,STU,Tamil
+HG01694,male,IBS,Iberian
+HG03896,male,STU,Tamil
+HG01699,male,IBS,Iberian
+HG03696,male,STU,Tamil
+HG01702,female,IBS,Iberian
+HG03803,male,BEB,Bengali
+HG01865,male,KHV,Kinh Vietnamese
+HG03709,female,PJL,Punjabi
+HG03808,female,BEB,Bengali
+HG01872,male,KHV,Kinh Vietnamese
+HG03711,male,STU,Tamil
+HG03815,male,BEB,Bengali
+HG03716,male,ITU,Telugu
+HG01923,male,PEL,Peruvian
+HG03499,female,ESN,Esan
+HG01935,male,PEL,Peruvian
+HG03514,female,ESN,Esan
+HG03947,female,STU,Tamil
+HG01942,female,PEL,Peruvian
+HG01889,female,ACB,African Caribbean
+HG03521,male,ESN,Esan
+HG03846,male,STU,Tamil
+HG04003,male,STU,Tamil
+HG01896,female,ACB,African Caribbean
+HG04015,male,ITU,Telugu
+HG03646,male,STU,Tamil
+HG04022,male,ITU,Telugu
+HG01707,female,IBS,Iberian
+HG03653,female,PJL,Punjabi
+HG04039,male,STU,Tamil
+HG01757,female,IBS,Iberian
+HG03660,male,PJL,Punjabi
+HG03754,female,STU,Tamil
+HG01795,female,CDX,Dai Chinese
+HG04060,male,ITU,Telugu
+HG01808,female,CDX,Dai Chinese
+HG03858,female,STU,Tamil
+HG01810,male,CDX,Dai Chinese
+HG03773,male,ITU,Telugu
+HG03872,male,ITU,Telugu
+HG01992,female,PEL,Peruvian
+HG03583,female,MSL,Mende
+HG01997,female,PEL,Peruvian
+NA12273,female,CEU,CEPH
+HG02003,female,PEL,Peruvian
+HG03595,female,BEB,Bengali
+HG02008,male,PEL,Peruvian
+HG03603,male,BEB,Bengali
+HG02010,female,ACB,African Caribbean
+HG03672,male,STU,Tamil
+HG03684,female,STU,Tamil
+NA12348,female,CEU,CEPH
+HG03689,female,STU,Tamil
+HG02084,female,KHV,Kinh Vietnamese
+HG03691,male,STU,Tamil
+NA12413,male,CEU,CEPH
+HG02089,female,PEL,Peruvian
+HG03615,male,BEB,Bengali
+NA12716,male,CEU,CEPH
+HG03634,female,PJL,Punjabi
+NA12761,female,CEU,CEPH
+HG02104,male,PEL,Peruvian
+HG02111,female,ACB,African Caribbean
+HG03730,female,ITU,Telugu
+NA12778,female,CEU,CEPH
+HG02116,male,KHV,Kinh Vietnamese
+HG03742,male,ITU,Telugu
+NA12812,male,CEU,CEPH
+HG02128,male,KHV,Kinh Vietnamese
+HG03999,male,STU,Tamil
+HG02130,female,KHV,Kinh Vietnamese
+HG04017,male,ITU,Telugu
+NA12829,male,CEU,CEPH
+NA12843,female,CEU,CEPH
+HG02166,female,CDX,Dai Chinese
+HG04029,female,STU,Tamil
+NA12874,male,CEU,CEPH
+HG02178,female,CDX,Dai Chinese
+HG04229,male,STU,Tamil
+HG02180,female,CDX,Dai Chinese
+HG03886,female,STU,Tamil
+HG02185,female,CDX,Dai Chinese
+HG03898,female,STU,Tamil
+NA06985,female,CEU,CEPH
+HG02224,male,IBS,Iberian
+HG03848,male,STU,Tamil
+HG03850,male,STU,Tamil
+HG02231,male,IBS,Iberian
+HG03862,female,ITU,Telugu
+HG02236,male,IBS,Iberian
+HG03867,male,ITU,Telugu
+HG02250,male,CDX,Dai Chinese
+HG03874,female,ITU,Telugu
+HG02142,female,KHV,Kinh Vietnamese
+HG03824,male,BEB,Bengali
+HG02147,female,PEL,Peruvian
+HG03829,female,BEB,Bengali
+NA10847,female,CEU,CEPH
+HG02154,female,CDX,Dai Chinese
+HG01973,female,PEL,Peruvian
+HG03836,female,STU,Tamil
+HG03937,female,BEB,Bengali
+HG01980,female,PEL,Peruvian
+HG03944,female,STU,Tamil
+NA11840,female,CEU,CEPH
+HG01985,female,ACB,African Caribbean
+HG03949,female,STU,Tamil
+NA12045,male,CEU,CEPH
+HG02053,male,ACB,African Caribbean
+HG03951,female,STU,Tamil
+HG02058,male,KHV,Kinh Vietnamese
+HG04173,male,BEB,Bengali
+HG02060,female,KHV,Kinh Vietnamese
+HG03800,male,BEB,Bengali
+HG04180,female,BEB,Bengali
+HG02072,female,KHV,Kinh Vietnamese
+HG03805,female,BEB,Bengali
+HG04185,male,BEB,Bengali
+HG03812,male,BEB,Bengali
+HG02046,female,KHV,Kinh Vietnamese
+HG03817,female,BEB,Bengali
+HG02419,female,ACB,African Caribbean
+HG04200,female,ITU,Telugu
+HG02433,male,ACB,African Caribbean
+HG03913,female,BEB,Bengali
+HG04212,female,ITU,Telugu
+HG02445,male,ACB,African Caribbean
+HG03920,male,BEB,Bengali
+HG02464,male,GWD,"Gambian Mandinka,Gambian"
+HG03925,female,BEB,Bengali
+HG02558,female,ACB,African Caribbean
+HG03963,male,ITU,Telugu
+HG03968,female,ITU,Telugu
+HG04159,female,BEB,Bengali
+HG02577,female,ACB,African Caribbean
+HG04161,male,BEB,Bengali
+HG03778,male,ITU,Telugu
+HG04096,male,ITU,Telugu
+HG02589,female,GWD,Gambian Mandinka
+HG03780,female,ITU,Telugu
+HG03785,male,ITU,Telugu
+HG03792,male,ITU,Telugu
+NA18555,female,CHB,Han Chinese
+HG02281,male,ACB,African Caribbean
+NA12155,male,CEU,CEPH
+NA18562,male,CHB,Han Chinese
+HG02286,female,PEL,Peruvian
+NA12249,female,CEU,CEPH
+NA18567,female,CHB,Han Chinese
+NA12275,female,CEU,CEPH
+NA18574,female,CHB,Han Chinese
+HG02298,female,PEL,Peruvian
+NA12282,male,CEU,CEPH
+NA18579,female,CHB,Han Chinese
+HG02301,female,PEL,Peruvian
+NA12287,female,CEU,CEPH
+NA18593,female,CHB,Han Chinese
+HG02471,female,ACB,African Caribbean
+NA12340,male,CEU,CEPH
+NA18606,male,CHB,Han Chinese
+HG02476,female,ACB,African Caribbean
+NA18613,male,CHB,Han Chinese
+HG02490,male,PJL,Punjabi
+NA12383,female,CEU,CEPH
+NA18618,female,CHB,Han Chinese
+NA12489,female,CEU,CEPH
+NA18620,male,CHB,Han Chinese
+HG02318,female,ACB,African Caribbean
+NA10851,male,CEU,CEPH
+NA18625,female,CHB,Han Chinese
+HG02325,female,ACB,African Caribbean
+NA18632,male,CHB,Han Chinese
+HG02332,male,ACB,African Caribbean
+NA18637,male,CHB,Han Chinese
+HG02337,female,ACB,African Caribbean
+NA11830,female,CEU,CEPH
+NA18644,female,CHB,Han Chinese
+NA11892,female,CEU,CEPH
+NA18740,male,CHB,Han Chinese
+HG02508,female,ACB,African Caribbean
+NA18745,male,CHB,Han Chinese
+HG02522,female,KHV,Kinh Vietnamese
+NA11931,female,CEU,CEPH
+NA18757,male,CHB,Han Chinese
+HG02541,male,ACB,African Caribbean
+NA11993,female,CEU,CEPH
+HG02546,female,ACB,African Caribbean
+NA12004,female,CEU,CEPH
+NA18853,male,YRI,Yoruba
+HG02351,male,CDX,Dai Chinese
+HG04238,male,ITU,Telugu
+NA18916,female,YRI,Yoruba
+HG02356,male,CDX,Dai Chinese
+NA18923,male,YRI,Yoruba
+HG02363,male,CDX,Dai Chinese
+NA06994,male,CEU,CEPH
+HG02375,male,CDX,Dai Chinese
+NA07000,female,CEU,CEPH
+HG02382,male,CDX,Dai Chinese
+NA18942,female,JPT,Japanese
+HG02387,male,CDX,Dai Chinese
+NA18947,female,JPT,Japanese
+HG02394,male,CDX,Dai Chinese
+NA07048,male,CEU,CEPH
+NA18954,female,JPT,Japanese
+HG02399,male,CDX,Dai Chinese
+NA18959,male,JPT,Japanese
+HG02402,male,CDX,Dai Chinese
+NA07346,female,CEU,CEPH
+NA18961,male,JPT,Japanese
+HG02407,male,CDX,Dai Chinese
+NA18966,male,JPT,Japanese
+HG02255,male,ACB,African Caribbean
+NA18973,female,JPT,Japanese
+HG02262,male,PEL,Peruvian
+HG04194,male,BEB,Bengali
+NA18978,female,JPT,Japanese
+NA19046,male,LWK,Luhya
+HG02274,male,PEL,Peruvian
+HG04202,female,ITU,Telugu
+NA19058,male,JPT,Japanese
+HG02604,female,PJL,Punjabi
+HG04214,female,ITU,Telugu
+NA19060,male,JPT,Japanese
+HG02611,female,GWD,Gambian Mandinka
+HG04219,male,ITU,Telugu
+NA19065,female,JPT,Japanese
+HG02623,male,GWD,Gambian Mandinka
+HG04093,male,ITU,Telugu
+NA19072,male,JPT,Japanese
+HG02628,male,GWD,Gambian Mandinka
+HG04098,male,ITU,Telugu
+NA19077,female,JPT,Japanese
+HG04106,female,STU,Tamil
+NA19084,female,JPT,Japanese
+HG02635,female,GWD,Gambian Mandinka
+HG04118,female,ITU,Telugu
+NA19089,male,JPT,Japanese
+HG02642,male,GWD,Gambian Mandinka
+NA19091,male,JPT,Japanese
+NA19096,male,YRI,Yoruba
+HG02786,male,PJL,Punjabi
+HG04062,female,ITU,Telugu
+HG02793,female,PJL,Punjabi
+HG02798,male,GWD,Gambian Mandinka
+HG04144,female,BEB,Bengali
+NA18505,female,YRI,Yoruba
+HG02813,male,GWD,Gambian Mandinka
+NA18517,female,YRI,Yoruba
+HG04156,female,BEB,Bengali
+NA18531,female,CHB,Han Chinese
+HG02971,male,ESN,Esan
+NA18536,male,CHB,Han Chinese
+HG02976,female,ESN,Esan
+HG04182,male,BEB,Bengali
+NA18543,male,CHB,Han Chinese
+HG02983,female,GWD,Gambian Mandinka
+NA18548,male,CHB,Han Chinese
+HG03006,male,BEB,"Bengali,Bengali"
+NA18538,female,CHB,Han Chinese
+NA18550,female,CHB,Han Chinese
+HG03018,male,PJL,Punjabi
+NA18545,female,CHB,Han Chinese
+NA19116,female,YRI,Yoruba
+HG02654,male,PJL,Punjabi
+NA18552,female,CHB,Han Chinese
+NA18557,male,CHB,Han Chinese
+HG02661,female,PJL,Punjabi
+NA18564,female,CHB,Han Chinese
+NA19130,male,YRI,Yoruba
+HG02666,male,GWD,Gambian Mandinka
+NA18571,female,CHB,Han Chinese
+HG02678,male,GWD,Gambian Mandinka
+NA18576,female,CHB,Han Chinese
+NA19147,female,YRI,Yoruba
+NA18595,female,CHB,Han Chinese
+HG02685,female,PJL,Punjabi
+NA18603,male,CHB,Han Chinese
+NA19159,female,YRI,Yoruba
+NA18608,male,CHB,Han Chinese
+HG02697,female,PJL,Punjabi
+NA18610,female,CHB,Han Chinese
+HG02700,female,PJL,Punjabi
+NA18615,female,CHB,Han Chinese
+NA18622,male,CHB,Han Chinese
+NA18858,female,YRI,Yoruba
+HG02724,male,PJL,"Punjabi,Punjabi"
+NA18627,female,CHB,Han Chinese
+NA18634,female,CHB,Han Chinese
+NA18865,male,YRI,Yoruba
+HG02731,female,PJL,Punjabi
+NA18639,male,CHB,Han Chinese
+HG02736,male,PJL,Punjabi
+NA18641,female,CHB,Han Chinese
+NA18877,male,YRI,Yoruba
+NA18646,female,CHB,Han Chinese
+NA18909,female,YRI,Yoruba
+HG02774,male,PJL,Punjabi
+NA18747,male,CHB,Han Chinese
+NA19031,male,LWK,Luhya
+NA19248,male,YRI,Yoruba
+HG02820,female,GWD,Gambian Mandinka
+NA19036,female,LWK,Luhya
+NA19313,female,LWK,Luhya
+HG02837,female,GWD,Gambian Mandinka
+NA19043,male,LWK,Luhya
+NA19318,male,LWK,Luhya
+HG02851,male,GWD,Gambian Mandinka
+NA19055,male,JPT,Japanese
+NA19320,female,LWK,Luhya
+NA19062,male,JPT,Japanese
+NA19332,female,LWK,Luhya
+HG02870,female,GWD,Gambian Mandinka
+NA19067,male,JPT,Japanese
+NA19351,female,LWK,Luhya
+HG02882,female,GWD,Gambian Mandinka
+NA19074,female,JPT,Japanese
+NA19375,male,LWK,Luhya
+HG02887,male,GWD,Gambian Mandinka
+NA19079,male,JPT,Japanese
+NA18980,female,JPT,Japanese
+HG03025,female,GWD,Gambian Mandinka
+NA19081,female,JPT,Japanese
+NA18985,male,JPT,Japanese
+HG03049,female,GWD,Gambian Mandinka
+NA19086,male,JPT,Japanese
+NA18992,female,JPT,Japanese
+NA19093,female,YRI,Yoruba
+NA18997,female,JPT,Japanese
+HG02938,male,ESN,Esan
+NA19098,male,YRI,Yoruba
+NA19003,female,JPT,Japanese
+NA12890,female,CEU,CEPH
+NA19010,female,JPT,Japanese
+HG02952,female,ESN,Esan
+NA18487,male,YRI,Yoruba
+NA19027,male,LWK,Luhya
+NA18499,female,YRI,Yoruba
+NA19041,male,LWK,Luhya
+NA18502,female,YRI,Yoruba
+NA19185,female,YRI,Yoruba
+NA18507,male,YRI,Yoruba
+NA19197,female,YRI,Yoruba
+HG03241,female,GWD,Gambian Mandinka
+NA18519,male,YRI,Yoruba
+NA19200,male,YRI,Yoruba
+HG03246,male,GWD,Gambian Mandinka
+HG03258,male,GWD,Gambian Mandinka
+NA18526,female,CHB,Han Chinese
+NA18533,female,CHB,Han Chinese
+NA19236,male,YRI,Yoruba
+HG03265,male,ESN,Esan
+NA18968,female,JPT,Japanese
+NA20517,female,TSI,Toscani
+NA18970,male,JPT,Japanese
+NA20524,male,TSI,Toscani
+HG03291,female,ESN,Esan
+NA18975,female,JPT,Japanese
+NA20529,female,TSI,Toscani
+HG03342,female,ESN,Esan
+NA18982,male,JPT,Japanese
+NA20531,female,TSI,Toscani
+HG03354,female,ESN,Esan
+NA18987,female,JPT,Japanese
+NA20536,male,TSI,Toscani
+NA18994,male,JPT,Japanese
+NA20543,male,TSI,Toscani
+HG03366,female,ESN,Esan
+NA18999,female,JPT,Japanese
+NA20581,male,TSI,Toscani
+NA19000,male,JPT,Japanese
+NA20586,male,TSI,Toscani
+NA19005,male,JPT,Japanese
+NA20752,male,TSI,Toscani
+HG03169,male,ESN,Esan
+NA19012,male,JPT,Japanese
+NA20757,female,TSI,Toscani
+HG03171,female,ESN,Esan
+NA19017,female,LWK,Luhya
+NA20764,female,TSI,Toscani
+NA19024,female,LWK,Luhya
+NA20769,female,TSI,Toscani
+HG03190,male,ESN,Esan
+NA12718,female,CEU,CEPH
+NA20771,female,TSI,Toscani
+HG03121,female,ESN,Esan
+NA12749,female,CEU,CEPH
+HG03126,female,ESN,Esan
+NA12751,female,CEU,CEPH
+NA19818,male,ASW,African Ancestry SW
+HG03133,male,ESN,Esan
+NA12763,female,CEU,CEPH
+NA12775,male,CEU,CEPH
+NA19914,female,ASW,African Ancestry SW
+HG03157,male,ESN,Esan
+NA12814,male,CEU,CEPH
+NA19921,female,ASW,African Ancestry SW
+HG03304,male,ESN,Esan
+NA18879,male,YRI,Yoruba
+NA20276,female,ASW,African Ancestry SW
+HG03311,male,ESN,Esan
+NA18881,female,YRI,Yoruba
+NA20783,male,TSI,Toscani
+HG03195,female,ESN,Esan
+NA20790,female,TSI,Toscani
+NA20795,female,TSI,Toscani
+HG03234,male,PJL,Punjabi
+NA20803,male,TSI,Toscani
+HG03099,female,ESN,Esan
+NA18944,male,JPT,Japanese
+NA20808,female,TSI,Toscani
+NA18949,female,JPT,Japanese
+NA20810,male,TSI,Toscani
+HG03114,female,ESN,Esan
+NA18951,female,JPT,Japanese
+NA20815,male,TSI,Toscani
+NA18956,female,JPT,Japanese
+NA20822,female,TSI,Toscani
+HG03378,female,MSL,Mende
+NA18963,female,JPT,Japanese
+NA20827,male,TSI,Toscani
+HG03380,female,MSL,Mende
+NA20846,male,GIH,Gujarati
+HG03385,male,MSL,Mende
+NA19113,male,YRI,Yoruba
+NA20853,female,GIH,Gujarati
+HG03397,male,MSL,Mende
+NA19118,female,YRI,Yoruba
+NA19469,female,LWK,Luhya
+HG03063,male,MSL,Mende
+NA19471,female,LWK,Luhya
+HG03082,female,MSL,Mende
+NA19654,female,MXL,Mexican Ancestry
+NA19137,female,YRI,Yoruba
+NA19144,male,YRI,Yoruba
+NA19661,male,MXL,Mexican Ancestry
+NA19149,female,YRI,Yoruba
+NA19678,female,MXL,Mexican Ancestry
+HG03518,male,ESN,Esan
+HG03520,female,ESN,Esan
+NA19175,male,YRI,Yoruba
+NA19685,male,MXL,Mexican Ancestry
+HG03607,female,BEB,Bengali
+NA19700,male,ASW,African Ancestry SW
+HG03619,female,PJL,Punjabi
+NA19207,male,YRI,Yoruba
+NA19712,female,ASW,African Ancestry SW
+NA19214,female,YRI,Yoruba
+NA19717,male,MXL,Mexican Ancestry
+HG03633,male,PJL,Punjabi
+NA19729,male,MXL,Mexican Ancestry
+NA18867,female,YRI,Yoruba
+NA19731,female,MXL,Mexican Ancestry
+NA18874,male,YRI,Yoruba
+HG03690,female,STU,Tamil
+NA19750,male,MXL,Mexican Ancestry
+HG03695,male,STU,Tamil
+NA20339,female,ASW,African Ancestry SW
+HG03640,female,PJL,Punjabi
+NA19238,female,YRI,Yoruba
+NA20341,female,ASW,African Ancestry SW
+HG03645,female,STU,Tamil
+NA19240,female,YRI,Yoruba
+NA20346,male,ASW,African Ancestry SW
+HG03652,male,PJL,Punjabi
+NA19257,female,YRI,Yoruba
+NA19308,male,LWK,Luhya
+NA20505,female,TSI,Toscani
+HG03582,male,MSL,Mende
+NA19310,female,LWK,Luhya
+NA20512,male,TSI,Toscani
+NA19315,female,LWK,Luhya
+NA19382,male,LWK,Luhya
+HG03594,male,BEB,Bengali
+NA19327,female,LWK,Luhya
+NA19394,male,LWK,Luhya
+NA19334,male,LWK,Luhya
+NA19399,female,LWK,Luhya
+NA19438,female,LWK,Luhya
+HG03703,female,PJL,Punjabi
+NA20502,female,TSI,Toscani
+NA19440,female,LWK,Luhya
+HG03708,male,PJL,Punjabi
+NA20507,female,TSI,Toscani
+NA19445,female,LWK,Luhya
+NA20514,female,TSI,Toscani
+NA19452,male,LWK,Luhya
+HG03715,male,ITU,Telugu
+NA20519,male,TSI,Toscani
+NA19457,female,LWK,Luhya
+NA20521,male,TSI,Toscani
+NA19755,female,MXL,Mexican Ancestry
+HG03556,male,MSL,Mende
+NA20526,female,TSI,Toscani
+NA19762,male,MXL,Mexican Ancestry
+HG03563,female,MSL,Mende
+NA20533,female,TSI,Toscani
+NA19774,male,MXL,Mexican Ancestry
+HG03575,female,MSL,Mende
+NA20538,male,TSI,Toscani
+NA19779,female,MXL,Mexican Ancestry
+NA20540,female,TSI,Toscani
+HG03436,male,MSL,Mende
+NA20588,male,TSI,Toscani
+NA19786,male,MXL,Mexican Ancestry
+NA20754,male,TSI,Toscani
+HG03455,female,MSL,Mende
+NA20759,male,TSI,Toscani
+NA19346,male,LWK,Luhya
+NA19360,male,LWK,Luhya
+NA20322,female,ASW,African Ancestry SW
+HG03479,female,MSL,Mende
+NA19372,male,LWK,Luhya
+NA20334,female,ASW,African Ancestry SW
+HG03931,female,BEB,Bengali
+NA19377,female,LWK,Luhya
+NA21142,female,GIH,Gujarati
+HG03943,male,STU,Tamil
+NA19384,male,LWK,Luhya
+HG03948,female,STU,Tamil
+NA19391,female,LWK,Luhya
+HG03950,male,STU,Tamil
+NA19396,female,LWK,Luhya
+HG03955,female,STU,Tamil
+NA19404,female,LWK,Luhya
+HG03823,female,BEB,Bengali
+NA19428,male,LWK,Luhya
+HG03830,male,BEB,Bengali
+NA19430,male,LWK,Luhya
+NA19435,female,LWK,Luhya
+NA19454,male,LWK,Luhya
+NA19461,male,LWK,Luhya
+HG03753,male,STU,Tamil
+NA19466,male,LWK,Luhya
+HG03760,female,STU,Tamil
+NA19473,female,LWK,Luhya
+HG03765,female,PJL,Punjabi
+NA19625,female,ASW,African Ancestry SW
+HG03772,female,ITU,Telugu
+NA19649,male,MXL,Mexican Ancestry
+NA20904,male,GIH,Gujarati
+HG03722,female,ITU,Telugu
+NA19651,female,MXL,Mexican Ancestry
+HG03727,male,ITU,Telugu
+NA20911,male,GIH,Gujarati
+HG03741,female,STU,Tamil
+NA19663,female,MXL,Mexican Ancestry
+NA21089,female,GIH,Gujarati
+HG03746,male,STU,Tamil
+NA19670,male,MXL,Mexican Ancestry
+NA21091,male,GIH,Gujarati
+HG03777,male,ITU,Telugu
+NA19788,female,MXL,Mexican Ancestry
+NA20884,male,GIH,Gujarati
+HG03784,female,ITU,Telugu
+NA20889,male,GIH,Gujarati
+HG03789,female,ITU,Telugu
+NA19795,male,MXL,Mexican Ancestry
+NA20891,male,GIH,Gujarati
+HG03796,female,BEB,Bengali
+NA19834,male,ASW,African Ancestry SW
+NA20896,female,GIH,Gujarati
+NA19904,male,ASW,African Ancestry SW
+NA21116,male,GIH,Gujarati
+HG03809,male,BEB,Bengali
+NA19909,female,ASW,African Ancestry SW
+NA21123,male,GIH,Gujarati
+NA19916,male,ASW,African Ancestry SW
+NA21128,male,GIH,Gujarati
+NA19923,female,ASW,African Ancestry SW
+NA21130,male,GIH,Gujarati
+HG03905,male,BEB,Bengali
+NA19985,female,ASW,African Ancestry SW
+NA21135,male,GIH,Gujarati
+HG03917,male,BEB,Bengali
+NA20127,female,ASW,African Ancestry SW
+NA20858,male,GIH,Gujarati
+NA19675,female,MXL,Mexican Ancestry
+NA20872,female,GIH,Gujarati
+NA19682,male,MXL,Mexican Ancestry
+NA20877,female,GIH,Gujarati
+HG03885,male,STU,Tamil
+NA21104,male,GIH,Gujarati
+HG03897,female,STU,Tamil
+NA19707,female,ASW,African Ancestry SW
+NA21109,male,GIH,Gujarati
+HG03900,male,STU,Tamil
+NA21111,male,GIH,Gujarati
+HG03854,male,STU,Tamil
+NA19719,female,MXL,Mexican Ancestry
+HG03861,female,ITU,Telugu
+HG03866,male,ITU,Telugu
+NA19726,male,MXL,Mexican Ancestry
+HG03873,female,ITU,Telugu
+NA19738,male,MXL,Mexican Ancestry
+NA19740,female,MXL,Mexican Ancestry
+NA07357,male,CEU,CEPH
+NA19752,female,MXL,Mexican Ancestry
+NA19764,female,MXL,Mexican Ancestry
+NA19771,male,MXL,Mexican Ancestry
+NA19776,female,MXL,Mexican Ancestry
+NA19783,male,MXL,Mexican Ancestry
+NA06986,male,CEU,CEPH
+NA20278,male,ASW,African Ancestry SW
+HG04042,female,STU,Tamil
+HG04047,female,STU,Tamil
+HG04054,female,ITU,Telugu
+HG04059,female,ITU,Telugu
+HG04061,male,ITU,Telugu
+NA20317,female,ASW,African Ancestry SW
+HG04080,male,ITU,Telugu
+NA20336,female,ASW,African Ancestry SW
+NA20348,male,ASW,African Ancestry SW
+HG04155,male,BEB,Bengali
+HG04162,female,BEB,Bengali
+NA20355,female,ASW,African Ancestry SW
+NA20362,male,ASW,African Ancestry SW
+NA20761,female,TSI,Toscani
+HG04186,female,BEB,Bengali
+NA20766,female,TSI,Toscani
+NA20773,female,TSI,Toscani
+HG04100,male,STU,Tamil
+NA20778,male,TSI,Toscani
+HG04131,male,BEB,Bengali
+NA20785,male,TSI,Toscani
+NA20792,male,TSI,Toscani
+HG04198,male,ITU,Telugu
+NA20797,female,TSI,Toscani
+HG04206,male,ITU,Telugu
+NA20800,female,TSI,Toscani
+HG04225,male,ITU,Telugu
+NA20805,male,TSI,Toscani
+HG03967,male,ITU,Telugu
+NA20812,male,TSI,Toscani
+HG03974,male,ITU,Telugu
+NA20829,male,TSI,Toscani
+HG03986,female,STU,Tamil
+NA20831,male,TSI,Toscani
+HG03998,male,STU,Tamil
+NA21137,female,GIH,Gujarati
+HG04023,male,ITU,Telugu
+NA21144,female,GIH,Gujarati
+HG04035,female,STU,Tamil
+NA18486,male,YRI,Yoruba
+NA18498,male,YRI,Yoruba
+NA18501,male,YRI,Yoruba
+NA20874,female,GIH,Gujarati
+NA20881,female,GIH,Gujarati
+NA18520,female,YRI,Yoruba
+NA20886,female,GIH,Gujarati
+NA18525,female,CHB,Han Chinese
+NA20893,female,GIH,Gujarati
+NA18532,female,CHB,Han Chinese
+NA20898,male,GIH,Gujarati
+NA18537,female,CHB,Han Chinese
+NA20901,male,GIH,Gujarati
+NA18544,male,CHB,Han Chinese
+NA20906,female,GIH,Gujarati
+NA18549,male,CHB,Han Chinese
+NA21086,female,GIH,Gujarati
+NA18563,male,CHB,Han Chinese
+NA18570,female,CHB,Han Chinese
+NA18582,female,CHB,Han Chinese
+NA18599,female,CHB,Han Chinese
+NA18602,female,CHB,Han Chinese
+NA18614,female,CHB,Han Chinese
+NA21113,male,GIH,Gujarati
+NA18619,female,CHB,Han Chinese
+NA21118,male,GIH,Gujarati
+NA18621,male,CHB,Han Chinese
+NA21120,female,GIH,Gujarati
+NA18626,female,CHB,Han Chinese
+NA21125,female,GIH,Gujarati
+NA18633,male,CHB,Han Chinese
+NA21093,male,GIH,Gujarati
+NA18638,male,CHB,Han Chinese
+NA21098,male,GIH,Gujarati
+NA18640,female,CHB,Han Chinese
+NA21101,female,GIH,Gujarati
+NA18645,male,CHB,Han Chinese
+NA21106,female,GIH,Gujarati
+NA18791,male,CHB,Han Chinese
+NA20850,male,GIH,Gujarati
+NA18979,female,JPT,Japanese
+NA20862,female,GIH,Gujarati
+NA18981,female,JPT,Japanese
+NA20867,male,GIH,Gujarati
+NA18986,male,JPT,Japanese
+NA18993,female,JPT,Japanese
+NA18998,female,JPT,Japanese
+NA19004,male,JPT,Japanese
+NA19009,male,JPT,Japanese
+NA19011,female,JPT,Japanese
+NA19023,female,LWK,"Luhya,Luhya"
+NA19028,male,LWK,Luhya
+NA19030,female,LWK,Luhya
+NA19035,male,LWK,Luhya
+NA19042,female,LWK,Luhya
+NA19054,female,JPT,Japanese
+NA19059,female,JPT,Japanese
+NA19066,male,JPT,Japanese
+NA19078,female,JPT,Japanese
+NA19080,female,JPT,Japanese
+NA19085,male,JPT,Japanese
+NA19092,male,YRI,Yoruba
+NA12154,male,CEU,CEPH
+NA12286,male,CEU,CEPH
+NA12399,male,CEU,CEPH
+NA12414,female,CEU,CEPH
+NA12546,male,CEU,CEPH
+NA12717,female,CEU,CEPH
+NA12748,male,CEU,CEPH
+NA12750,male,CEU,CEPH
+NA12762,male,CEU,CEPH
+NA12813,female,CEU,CEPH
+NA18912,female,YRI,Yoruba
+NA18917,male,YRI,Yoruba
+NA18924,female,YRI,Yoruba
+NA18943,male,JPT,Japanese
+NA18948,male,JPT,Japanese
+NA18950,female,JPT,Japanese
+NA18955,male,JPT,Japanese
+NA18962,male,JPT,Japanese
+NA18967,male,JPT,Japanese
+NA18974,male,JPT,Japanese
+NA11930,male,CEU,CEPH
+NA11992,male,CEU,CEPH
+NA12003,male,CEU,CEPH
+NA12046,female,CEU,CEPH
+NA12058,female,CEU,CEPH
+NA18861,female,YRI,Yoruba
+NA18873,female,YRI,Yoruba
+NA18878,female,YRI,Yoruba
+NA19472,female,LWK,Luhya
+NA19648,female,MXL,Mexican Ancestry
+NA19655,male,MXL,Mexican Ancestry
+NA19679,male,MXL,Mexican Ancestry
+NA19681,female,MXL,Mexican Ancestry
+NA19256,male,YRI,Yoruba
+NA19307,male,LWK,Luhya
+NA19314,female,LWK,Luhya
+NA19319,male,LWK,Luhya
+NA19321,female,LWK,Luhya
+NA19338,female,LWK,Luhya
+NA19352,male,LWK,Luhya
+NA19371,male,LWK,Luhya
+NA19376,male,LWK,Luhya
+NA19701,female,ASW,African Ancestry SW
+NA19713,female,ASW,African Ancestry SW
+NA19720,male,MXL,Mexican Ancestry
+NA19725,female,MXL,Mexican Ancestry
+NA19732,male,MXL,Mexican Ancestry
+NA19737,female,MXL,Mexican Ancestry
+NA19749,female,MXL,Mexican Ancestry
+NA19198,male,YRI,Yoruba
+NA19201,female,YRI,Yoruba
+NA19206,female,YRI,Yoruba
+NA19213,male,YRI,Yoruba
+NA19225,female,YRI,Yoruba
+NA19383,male,LWK,Luhya
+NA19390,female,LWK,Luhya
+NA19395,female,LWK,Luhya
+NA19403,female,LWK,Luhya
+NA19434,female,LWK,Luhya
+NA19439,female,LWK,Luhya
+NA19446,female,LWK,Luhya
+NA19453,male,LWK,Luhya
+NA19117,male,YRI,Yoruba
+NA19129,female,YRI,Yoruba
+NA19131,female,YRI,Yoruba
+NA19143,female,YRI,Yoruba
+NA19150,male,YRI,Yoruba
+NA19756,male,MXL,Mexican Ancestry
+NA19770,female,MXL,Mexican Ancestry
+NA19782,female,MXL,Mexican Ancestry
+NA19794,female,MXL,Mexican Ancestry
+NA19819,female,ASW,African Ancestry SW
+NA19908,male,ASW,African Ancestry SW
+NA19922,male,ASW,African Ancestry SW
+NA19984,male,ASW,African Ancestry SW
+NA20126,male,ASW,African Ancestry SW
+NA20289,female,ASW,African Ancestry SW
+NA20291,male,ASW,African Ancestry SW
+NA20296,female,ASW,African Ancestry SW
+NA20513,male,TSI,Toscani
+NA20518,male,TSI,Toscani
+NA20520,male,TSI,Toscani
+NA20525,male,TSI,Toscani
+NA20532,male,TSI,Toscani
+NA20537,male,TSI,Toscani
+NA20544,male,TSI,Toscani
+NA20582,female,TSI,Toscani
+NA20587,female,TSI,Toscani
+NA20753,female,TSI,Toscani
+NA20758,male,TSI,Toscani
+NA20760,female,TSI,Toscani
+NA20765,male,TSI,Toscani
+NA20772,female,TSI,Toscani
+NA21143,female,GIH,Gujarati
+NA20796,male,TSI,Toscani
+NA20804,female,TSI,Toscani
+NA20809,male,TSI,Toscani
+NA20811,male,TSI,Toscani
+NA20816,male,TSI,Toscani
+NA20828,female,TSI,Toscani
+NA20847,female,GIH,Gujarati
+NA20854,female,GIH,Gujarati
+NA20342,male,ASW,African Ancestry SW
+NA20359,female,ASW,African Ancestry SW
+NA20412,female,ASW,African Ancestry SW
+NA20506,female,TSI,Toscani
+NA20859,female,GIH,Gujarati
+NA20861,male,GIH,Gujarati
+NA20866,male,GIH,Gujarati
+NA20873,male,GIH,Gujarati
+NA20878,female,GIH,Gujarati
+NA20885,male,GIH,Gujarati
+NA20892,female,GIH,Gujarati
+NA20897,male,GIH,Gujarati
+NA21097,female,GIH,Gujarati
+NA21100,male,GIH,Gujarati
+NA21105,male,GIH,Gujarati
+NA21112,male,GIH,Gujarati
+NA20900,female,GIH,Gujarati
+NA20905,male,GIH,Gujarati
+NA21092,male,GIH,Gujarati
+NA21117,male,GIH,Gujarati
+NA21124,male,GIH,Gujarati
+NA21129,male,GIH,Gujarati
