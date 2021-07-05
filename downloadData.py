@@ -39,11 +39,12 @@ def download_file(sample, filename):
 def download_all_data():
     """This is the main function.
     It downloads and saves all phase 3 sequence reads for all samples
+    And returns list of samples, list of lists of files for each sample
     """
     global url_base
     num_downloads = 0
     samples = get_all_links(url_base)
-
+    all_files = []
     for sample in samples:
         print("Sample:", sample)
         # create new directory for the sample
@@ -52,6 +53,7 @@ def download_all_data():
         except FileExistsError:
             print("Folder for sample already exists")
         files = get_all_links(url_base + sample + "sequence_read/")
+        all_files += [files]
         for file in files:
             print("-> downloading file:", file)
             # downloads file onto your computer
@@ -60,4 +62,4 @@ def download_all_data():
 
     print("Successfully downloaded", str(num_downloads), "files for", str(len(samples)), "samples.")
 
-download_all_data()
+    return samples, all_files
