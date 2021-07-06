@@ -57,7 +57,8 @@ def download_all_data():
         for file in files:
             print("-> downloading file:", file)
             # downloads file onto your computer
-            download_file(sample, file)
+            if not(os.path.isfile("./phase3_data/" + sample + file)):
+                download_file(sample, file)
             num_downloads += 1
 
     print("Successfully downloaded", str(num_downloads), "files for", str(len(samples)), "samples.")
