@@ -1,3 +1,5 @@
+import os
+
 def parse_file(sample, filename):
     """This function converts a .fastq file into a .txt file
     while doing so, it only retains the raw sequence reads
@@ -6,6 +8,7 @@ def parse_file(sample, filename):
         f = open("./phase3_data/" + sample + filename, 'r')
     except:
         print("[Error]: Could not access file:", filename, "for sample:", sample[:-1])
+        return None
     outfile = open("./phase3_data/" + sample + filename[:-11] + ".txt", 'w')
     useNext = False
     while True:
@@ -28,5 +31,6 @@ def parseAllFastqs(samples, all_files):
     for i in range(len(all_files)):
         sample = samples[i]
         for file in all_files[i]:
-            print("parsing file:", file)
-            parse_file(sample, file[:-3])
+            if not(os.path.isfile("./phase3_data/" + sample + file.split('.')[0] + ".txt")):
+                print("parsing file:", file)
+                parse_file(sample, file[:-3])
