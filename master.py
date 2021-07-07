@@ -1,10 +1,16 @@
 from downloadData import download_all_data
+from unzipAllGz import unzipAll
 from parseSequence import parseAllFastqs
 
-# download files
+## Get all data
+# download files *.filt.fastq.gz
 samples, files = download_all_data()
-
-# call function for unzipping files here
-
-# parse and save files as .txt
+# unzip *.filt.fastq.gz into *.filt.fastq
+unzipAll(samples, files)
+# parse and save *.filt.fastq as *.txt
 parseAllFastqs(samples, files)
+
+## Machine learning part
+# initialize neural net
+# train
+# test
