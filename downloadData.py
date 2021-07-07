@@ -1,6 +1,5 @@
 import requests
 import os
-import sys
 
 url_base = "http://ftp.1000genomes.ebi.ac.uk/vol1/ftp/phase3/data/"
 
@@ -25,16 +24,20 @@ def download_file(sample, filename):
     """This function downloads the file asked for
     and saves it in the path:
         ./phase3_data/sampleName/file
+    returns True if successful, False if not
     """
     global url_base
     url = url_base + sample + "sequence_read/" + filename
     try:
         myfile = requests.get(url)
     except requests.exceptions.RequestException as e:
-        print("Download failed for flie:", filename)
+        print("Download failed for file:", filename)
         print("[Exception]:", e)
-        return None
-    open("./phase3_data/" + sample + filename, 'wb').write(myfile.content)
+        return False
+    f = open("./phase3_data/" + sample + filename, 'wb')
+    f.write(myfile.content)
+    f.close()
+    return True
 
 def download_all_data():
     """This is the main function.
@@ -55,11 +58,13 @@ def download_all_data():
         files = get_all_links(url_base + sample + "sequence_read/")
         all_files += [files]
         for file in files:
-            print("-> downloading file:", file)
-            # downloads file onto your computer
             if not(os.path.isfile("./phase3_data/" + sample + file)):
-                download_file(sample, file)
-                num_downloads += 1
+                print("-> downloading file:", file)
+                # download file onto your computer
+                if download_file(sample, file):
+                    num_downloads += 1
+            break
+        break
 
     print("Successfully downloaded", str(num_downloads), "files for", str(len(samples)), "samples.")
 
