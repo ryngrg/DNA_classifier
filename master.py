@@ -13,7 +13,7 @@ print(samples)
 print(files)
 # unzip *.filt.fastq.gz into *.filt.fastq
 unzipAll(samples, files)
-# parse and save *.filt.fastq as *.txt
+# parse and save *.filt.fastq as *.bin
 parseAllFastqs(samples, files)
 # store one hot vectors in X, Y
 X, Y = prepData(samples, files)
