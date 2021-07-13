@@ -1,7 +1,7 @@
 # DNA_classifier
 ## Ultimate objective: Use DNA sequence to determine population group of person
 
-### As of 2021/07/13 0007hrs:
+### As of 2021/07/13 1151hrs:
 * **master.py** - main file of the project, run this. This calls everything. Should have no complex code.
 * **trainingData.py** - reads .bin files and stores data in one hot vectors
 * **parseSequence.py** - reads the data in all unzipped data files (.filt.fastq) and encodes the raw sequences in a binary file (.bin)
