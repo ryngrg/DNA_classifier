@@ -44,7 +44,7 @@ def get_y_sample(sample):
             break
         (samp, gen, pop, supop) = row.split(',')
         if samp == sample[:-1]:
-            sp = supop
+            sp = supop.strip()
             break
     f.close()
     if sp == "AFR":
