@@ -1,7 +1,7 @@
 import os
 
 def parse_file(sample, filename):
-    """This function converts a .fastq file into a .txt file
+    """This function converts a .fastq file into a .bin file
     while doing so, it only retains the raw sequence reads
     returns True if successful, False if not
     """
@@ -10,8 +10,9 @@ def parse_file(sample, filename):
     except:
         print("[Error]: Could not access file:", filename, "for sample:", sample[:-1])
         return False
-    outfile = open("./phase3_data/" + sample + filename[:-11] + ".txt", 'w')
+    outfile = open("./phase3_data/" + sample + filename[:-11] + ".bin", 'wb')
     useNext = False
+    remaining = ""
     while True:
         text = f.readline()
         if len(text) == 0:
@@ -19,13 +20,43 @@ def parse_file(sample, filename):
         if text[0] == '+':
             useNext = False
         if useNext and (text[0] != '@'):
-            outfile.write(text)
+            noNs = text.replace('N', '')
+            noNs = noNs.replace('\n', '')
+            noNs = remaining + noNs
+            if len(noNs) % 4 == 0:
+                outfile.write(text_to_base4(noNs))
+                remaining = ""
+            else:
+                outfile.write(text_to_base4(noNs[:(-1 * (len(noNs) % 4))]))
+                remaining = noNs[(-1 * (len(noNs) % 4)):len(noNs)]
         if text[0] == '@':
             useNext = True
     f.close()
     outfile.close()
     return True
 
+def text_to_base4(text):
+    encoding = {"A":0, "C":1, "G":2, "T":3}
+    res = ""
+    nums = []
+    for i in range(0, len(text) - 4, 4):
+        num = 0
+        num += encoding[text[i]] * (4**3)
+        num += encoding[text[i+1]] * (4**2)
+        num += encoding[text[i+2]] * (4**1)
+        num += encoding[text[i+3]]
+        nums += [num]
+    num = 0
+    num += encoding[text[i]] * (4**3)
+    if len(text) > i + 1:
+        num += encoding[text[i+1]] * (4**2)
+        if len(text) > i + 2:
+            num += encoding[text[i+2]] * (4**1)
+            if len(text) > i + 3:
+                num += encoding[text[i+3]]
+    nums += [num]
+    return bytearray(nums)
+    
 def parseAllFastqs(samples, all_files):
     """This is the main function
     It calls the parser on every file for all samples
@@ -34,7 +65,7 @@ def parseAllFastqs(samples, all_files):
     for i in range(len(all_files)):
         sample = samples[i]
         for file in all_files[i]:
-            if not(os.path.isfile("./phase3_data/" + sample + file.split('.')[0] + ".txt")):
+            if not(os.path.isfile("./phase3_data/" + sample + file.split('.')[0] + ".bin")):
                 print("parsing file:", file)
                 if parse_file(sample, file[:-3]):
                     num_parsed += 1
