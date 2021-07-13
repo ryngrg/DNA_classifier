@@ -39,14 +39,16 @@ def download_file(sample, filename):
     f.close()
     return True
 
-def download_all_data():
+def download_all_data(samplesRange):
     """This is the main function.
-    It downloads and saves all phase 3 sequence reads for all samples
+    It downloads and saves all phase 3 sequence reads for samples in given range
     And returns list of samples, list of lists of files for each sample
     """
+    start, end = samplesRange
     global url_base
     num_downloads = 0
-    samples = get_all_links(url_base)
+    samps = get_all_links(url_base)
+    samples = samps[start:end]
     all_files = []
     for sample in samples:
         print("Sample:", sample)
@@ -63,8 +65,6 @@ def download_all_data():
                 # download file onto your computer
                 if download_file(sample, file):
                     num_downloads += 1
-            break
-        break
 
     print("Successfully downloaded", str(num_downloads), "files for", str(len(samples)), "samples.")
 
