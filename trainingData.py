@@ -12,7 +12,11 @@ def prepData(samples, all_files):
         popgp = get_y_sample(sample)
         for file in all_files[i]:
             y += [popgp]
-            f = open("./phase3_data/" + sample + file[:-14] + ".bin", 'rb')
+            try:
+                f = open("./phase3_data/" + sample + file[:-14] + ".bin", 'rb')
+            except:
+                print("[Error]: Could not access file:", file[:-14], "for sample:", sample[:-1])
+                continue
             raw = list(f.read())
             f.close()
             ohvs = []
