@@ -22,6 +22,9 @@ def parse_file(sample, filename):
         if useNext and (text[0] != '@'):
             noNs = text.replace('N', '')
             noNs = noNs.replace('\n', '')
+            if text[1] in ['0', '1', '2', '3']:
+                noNs = (text.split('.'))[0]
+                noNs = colorSpace_to_letterSpace(noNs)
             noNs = remaining + noNs
             if len(noNs) % 4 == 0:
                 outfile.write(text_to_base4(noNs))
@@ -34,6 +37,42 @@ def parse_file(sample, filename):
     f.close()
     outfile.close()
     return True
+
+def colorSpace_to_letterSpace(text):
+    enc = ['A', 'C', 'G', 'T']
+    let_seq = ""
+    let_seq += text[0]
+    for i in range(1, len(text)):
+        if text[i] == '0':
+            let_seq += let_seq[i-1]
+        elif text[i] == '1':
+            if let_seq[i-1] == 'A':
+                let_seq += 'C'
+            elif let_seq[i-1] == 'C':
+                let_seq += 'A'
+            elif let_seq[i-1] == 'G':
+                let_seq += 'T'
+            elif let_seq[i-1] == 'T':
+                let_seq += 'G'
+        elif text[i] == '2':
+            if let_seq[i-1] == 'A':
+                let_seq += 'G'
+            elif let_seq[i-1] == 'C':
+                let_seq += 'T'
+            elif let_seq[i-1] == 'G':
+                let_seq += 'A'
+            elif let_seq[i-1] == 'T':
+                let_seq += 'C'
+        elif text[i] == '3':
+            if let_seq[i-1] == 'A':
+                let_seq += 'T'
+            elif let_seq[i-1] == 'C':
+                let_seq += 'G'
+            elif let_seq[i-1] == 'G':
+                let_seq += 'C'
+            elif let_seq[i-1] == 'T':
+                let_seq += 'A'
+    return let_seq
 
 def text_to_base4(text):
     encoding = {"A":0, "C":1, "G":2, "T":3}
