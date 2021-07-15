@@ -39,39 +39,17 @@ def parse_file(sample, filename):
     return True
 
 def colorSpace_to_letterSpace(text):
-    enc = ['A', 'C', 'G', 'T']
+    enc = [["AA", "CC", "GG", "TT"],
+           ["AC", "CA", "GT", "TG"],
+           ["AG", "CT", "GA", "TC"],
+           ["AT", "CG", "GC", "TA"]]
     let_seq = ""
     let_seq += text[0]
     for i in range(1, len(text)):
-        if text[i] == '0':
-            let_seq += let_seq[i-1]
-        elif text[i] == '1':
-            if let_seq[i-1] == 'A':
-                let_seq += 'C'
-            elif let_seq[i-1] == 'C':
-                let_seq += 'A'
-            elif let_seq[i-1] == 'G':
-                let_seq += 'T'
-            elif let_seq[i-1] == 'T':
-                let_seq += 'G'
-        elif text[i] == '2':
-            if let_seq[i-1] == 'A':
-                let_seq += 'G'
-            elif let_seq[i-1] == 'C':
-                let_seq += 'T'
-            elif let_seq[i-1] == 'G':
-                let_seq += 'A'
-            elif let_seq[i-1] == 'T':
-                let_seq += 'C'
-        elif text[i] == '3':
-            if let_seq[i-1] == 'A':
-                let_seq += 'T'
-            elif let_seq[i-1] == 'C':
-                let_seq += 'G'
-            elif let_seq[i-1] == 'G':
-                let_seq += 'C'
-            elif let_seq[i-1] == 'T':
-                let_seq += 'A'
+        for j in range(4):
+            if enc[(int)(text[i])][j][0] == let_seq[i-1]:
+                let_seq += enc[(int)(text[i])][j][1]
+                break
     return let_seq
 
 def text_to_base4(text):
