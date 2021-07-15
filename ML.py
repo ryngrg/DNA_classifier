@@ -11,7 +11,7 @@ def make_model():
     model.add(keras.layers.Dropout(0.3))
     model.add(keras.layers.Dense(5, activation = tf.nn.softmax))
     model.summary()
-    model.compile(optimizer = keras.optimizers.Adam(), loss = keras.losses.CategoricalCrossentropy())
+    model.compile(optimizer = keras.optimizers.Adam(learning_rate=0.001, beta_1=0.9), loss = keras.losses.CategoricalCrossentropy())
     return model
 
 def ml_main(X, Y):
