@@ -16,3 +16,4 @@ def make_model():
 
 def ml_main(X, Y):
     model = make_model()
+    #train network
