@@ -29,7 +29,7 @@ def parse_file(sample, filename):
             if len(noNs) % 4 == 0:
                 outfile.write(text_to_base4(noNs))
                 remaining = ""
-            else:
+            elif (len(noNs) > 4):
                 outfile.write(text_to_base4(noNs[:(-1 * (len(noNs) % 4))]))
                 remaining = noNs[(-1 * (len(noNs) % 4)):len(noNs)]
         if text[0] == '@':
