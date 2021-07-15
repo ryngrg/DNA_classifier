@@ -22,8 +22,8 @@ def parse_file(sample, filename):
         if useNext and (text[0] != '@'):
             noNs = text.replace('N', '')
             noNs = noNs.replace('\n', '')
-            if (len(text) > 1) and (text[1] in ['0', '1', '2', '3']):
-                noNs = (text.split('.'))[0]
+            if (len(noNs) > 1) and (noNs[1] in ['0', '1', '2', '3']):
+                noNs = (noNs.split('.'))[0]
                 noNs = colorSpace_to_letterSpace(noNs)
             noNs = remaining + noNs
             if len(noNs) % 4 == 0:
