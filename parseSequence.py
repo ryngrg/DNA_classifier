@@ -22,7 +22,7 @@ def parse_file(sample, filename):
         if useNext and (text[0] != '@'):
             noNs = text.replace('N', '')
             noNs = noNs.replace('\n', '')
-            if (len(noNs) > 1) and (noNs[1] in ['0', '1', '2', '3']):
+            if (len(noNs) > 1) and (noNs[1] in ['0', '1', '2', '3', '.']):
                 noNs = (noNs.split('.'))[0]
                 noNs = colorSpace_to_letterSpace(noNs)
             noNs = remaining + noNs
@@ -41,6 +41,8 @@ def parse_file(sample, filename):
     return True
 
 def colorSpace_to_letterSpace(text):
+    if len(text) == 1:
+        return text[0]
     enc = [["AA", "CC", "GG", "TT"],
            ["AC", "CA", "GT", "TG"],
            ["AG", "CT", "GA", "TC"],
