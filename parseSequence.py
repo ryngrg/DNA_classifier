@@ -32,6 +32,8 @@ def parse_file(sample, filename):
             elif (len(noNs) > 4):
                 outfile.write(text_to_base4(noNs[:(-1 * (len(noNs) % 4))]))
                 remaining = noNs[(-1 * (len(noNs) % 4)):len(noNs)]
+            else:
+                remaining = noNs
         if text[0] == '@':
             useNext = True
     f.close()
