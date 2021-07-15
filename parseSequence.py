@@ -77,6 +77,7 @@ def colorSpace_to_letterSpace(text):
 def text_to_base4(text):
     encoding = {"A":0, "C":1, "G":2, "T":3}
     nums = []
+    i = 0
     for i in range(0, len(text) - 4, 4):
         num = 0
         num += encoding[text[i]] * (4**3)
