@@ -105,7 +105,7 @@ def parseAllFastqs(samples, all_files):
         sample = samples[i]
         for file in all_files[i]:
             if not(os.path.isfile("./phase3_data/" + sample + file.split('.')[0] + ".bin")):
-                print("parsing file:", file)
+                print("parsing file:", file[:-3])
                 if parse_file(sample, file[:-3]):
                     num_parsed += 1
 
