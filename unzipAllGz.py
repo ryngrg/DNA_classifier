@@ -12,7 +12,12 @@ def unzip_file(sample, filename):
         print("[Error]: Could not access file:", filename, "for sample:", sample[:-1])
         return False
     f_out = open("./phase3_data/" + sample + filename[:-3], 'wb')
-    shutil.copyfileobj(f_in, f_out)
+    try:
+        shutil.copyfileobj(f_in, f_out)
+    except:
+        f_in.close()
+        f_out.close()
+        return False
     f_in.close()
     f_out.close()
     return True
