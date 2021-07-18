@@ -4,7 +4,7 @@
 ### As of 2021/07/17 2037hrs:
 * **master.py** - Main file of the project, run this. This calls everything. Should have no complex code.
 * **ML.py** - This file contains the LSTM training algorithm.
-* **trainingData.py** - Reads .bin files and stores data in one hot vectors.
+* **trainingData.py** - Contains generator function: Reads .bin files and stores data in one hot vectors.
 * **parseSequence.py** - Reads the data in all unzipped data files (.filt.fastq) and encodes the raw sequences in a binary file (.bin)
 * **unzipAllGz.py** - Unzips all .gz files
 * **downloadData.py** - Downloads all sequence reads (.filt.fastq.gz) of all samples and stores it into ./phase3_data/sampleName/
