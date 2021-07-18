@@ -2,7 +2,7 @@ import tensorflow as tf
 import keras
 import numpy as np
 import matplotlib as plt
-from trainingData import prepData
+from trainingData import trainDataGenerator
 
 def make_model():
     model = keras.Sequential()
@@ -18,5 +18,5 @@ def make_model():
 def ml_main(samples, files):
     model = make_model()
     ## train model
-    # prepData will be the generator function
-    # model.fit_generator(prepData(samples, files), batch_size = 24, num_epochs = 10)
+    # trainDataGenerator will be the generator function
+    # model.fit_generator(trainDataGenerator(samples, files), batch_size = 24, num_epochs = 10)
