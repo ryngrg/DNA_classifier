@@ -1,11 +1,11 @@
 from downloadData import download_all_data
 from unzipAllGz import unzipAll
 from parseSequence import parseAllFastqs
-from trainingData import prepData
+from ML import ml_main
 
 ## Get data
 
-samplesRange = (0, 4) # use first four samples only
+samplesRange = (0, 4) # Eg. use first four samples only
 
 # download files *.filt.fastq.gz
 samples, files = download_all_data(samplesRange)
@@ -13,10 +13,6 @@ samples, files = download_all_data(samplesRange)
 unzipAll(samples, files)
 # parse and save *.filt.fastq as *.bin
 parseAllFastqs(samples, files)
-# store one hot vectors in X, Y
-X, Y = prepData(samples, files)
 
 ## Machine learning part
-# initialize neural net
-# train
-# test
+ml_main(samples, files)
