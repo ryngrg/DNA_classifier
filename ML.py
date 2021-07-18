@@ -14,6 +14,8 @@ def make_model():
     model.compile(optimizer = keras.optimizers.Adam(learning_rate=0.001, beta_1=0.9), loss = keras.losses.CategoricalCrossentropy())
     return model
 
-def ml_main(X, Y):
+def ml_main(samples, files):
     model = make_model()
-    #train network
+    ## train model
+    # prepData will be the generator function
+    # model.fit_generator(prepData(samples, files), batch_size = 24, num_epochs = 10)
