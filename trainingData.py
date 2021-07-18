@@ -1,5 +1,8 @@
 import numpy as np
 
+## this file should contain the generator function for training data
+## work in progress -- not complete yet
+
 def prepData(samples, all_files):
     x = []
     y = []
