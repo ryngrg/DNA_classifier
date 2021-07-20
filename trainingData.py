@@ -1,14 +1,20 @@
 import numpy as np
 import os
 
-## work in progress -- not complete ##
-## this file should contain the generator function for training data
-
 def trainDataGenerator():
+    """This function gives a generator containing 1 file at a time.
+    It yields the sequence, superpopulation as one-hot vectors.
+    """
     samples, all_files = get_filenames()
-    ###
+    for i in range(len(samples)):
+        sample = samples[i]
+        for file in all_files[i]:
+            yield prepData(sample, file)
 
 def get_filenames():
+    """This function looks in the data directory and returns lists
+    of all samples and their files available.
+    """
     datadir = "./phase3_data/"
     samples = os.listdir(datadir)
     all_files = []
@@ -22,46 +28,45 @@ def get_filenames():
         all_files += [sampfiles]
     return samples, all_files
 
-def prepData(samples, all_files):
-    x = []
-    y = []
+def prepData(sample, file):
+    """This function converts a file's contents into a
+    numpy array of one-hot vectors.
+    """
+    try:
+        f = open("./phase3_data/" + sample + "/" + file, 'rb')
+    except:
+        print("[Error]: Could not access file:", file, "for sample:", sample)
+        return None
     decoding = [(1, 0, 0, 0),
                 (0, 1, 0, 0),
                 (0, 0, 1, 0),
                 (0, 0, 0, 1)]
-    for i in range(len(all_files)):
-        sample = samples[i]
-        popgp = get_y_sample(sample)
-        for file in all_files[i]:
-            y += [popgp]
-            try:
-                f = open("./phase3_data/" + sample + file[:-14] + ".bin", 'rb')
-            except:
-                print("[Error]: Could not access file:", file[:-14], "for sample:", sample[:-1])
-                continue
-            raw = list(f.read())
-            f.close()
-            ohvs = []
-            for t in range(len(raw)):
-                base = (int)(raw[t] / 4**3)
-                ohvs += [decoding[base]]
-                raw[t] %= (4**3)
-                base = (int)(raw[t] / 4**2)
-                ohvs += [decoding[base]]
-                raw[t] %= (4**2)
-                base = (int)(raw[t] / 4**1)
-                ohvs += [decoding[base]]
-                raw[t] %= (4**1)
-                base = (int)(raw[t])
-                ohvs += [decoding[base]]
-            x += [ohvs]
-    X = np.array(x)
-    Y = np.array(y)
-    print("X shape =", X.shape)
-    print("Y shape =", Y.shape)
+    raw = list(f.read())
+    f.close()
+    ohvs = []
+    for t in range(len(raw)):
+        base = (int)(raw[t] / 4**3)
+        ohvs += [decoding[base]]
+        raw[t] %= (4**3)
+        base = (int)(raw[t] / 4**2)
+        ohvs += [decoding[base]]
+        raw[t] %= (4**2)
+        base = (int)(raw[t] / 4**1)
+        ohvs += [decoding[base]]
+        raw[t] %= (4**1)
+        base = (int)(raw[t])
+        ohvs += [decoding[base]]
+
+    X = np.array(ohvs)
+    Y = np.array(get_y_sample(sample))
+    print(sample, file, "X shape =", X.shape)
+    print("\t", Y)
     return X, Y
 
 def get_y_sample(sample):
+    """This function returns the superpopulation group of a sample
+    encoded as a one-hot vector
+    """
     f = open("./samples_population.csv")
     f.readline()
     while True:
@@ -69,7 +74,7 @@ def get_y_sample(sample):
         if len(row) == 0:
             break
         (samp, gen, pop, supop) = row.split(',')
-        if samp == sample[:-1]:
+        if samp == sample:
             sp = supop.strip()
             break
     f.close()
