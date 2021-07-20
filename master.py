@@ -5,7 +5,7 @@ from ML import ml_main
 
 ## Get data
 
-samplesRange = (0, 4) # Eg. use first four samples only
+samplesRange = (0, 30) # Eg. use first thirty samples only
 
 # download files *.filt.fastq.gz
 samples, files = download_all_data(samplesRange)
