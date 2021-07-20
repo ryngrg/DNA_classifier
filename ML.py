@@ -14,6 +14,24 @@ def make_model():
     model.summary()
     model.compile(optimizer = keras.optimizers.Adam(learning_rate=0.001, beta_1=0.9), loss = keras.losses.CategoricalCrossentropy())
     return model
+##    Model: "sequential"
+##    _________________________________________________________________
+##    Layer (type)                 Output Shape              Param #   
+##    =================================================================
+##    lstm (LSTM)                  (None, None, 64)          17664     
+##    _________________________________________________________________
+##    dropout (Dropout)            (None, None, 64)          0         
+##    _________________________________________________________________
+##    lstm_1 (LSTM)                (None, 10)                3000      
+##    _________________________________________________________________
+##    dropout_1 (Dropout)          (None, 10)                0         
+##    _________________________________________________________________
+##    dense (Dense)                (None, 5)                 55        
+##    =================================================================
+##    Total params: 20,719
+##    Trainable params: 20,719
+##    Non-trainable params: 0
+##    _________________________________________________________________
 
 def ml_main(samples, files):
     model = make_model()
