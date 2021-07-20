@@ -1,10 +1,26 @@
 import numpy as np
+import os
 
+## work in progress -- not complete ##
 ## this file should contain the generator function for training data
-## work in progress -- not complete yet
 
 def trainDataGenerator():
-    pass
+    samples, all_files = get_filenames()
+    ###
+
+def get_filenames():
+    datadir = "./phase3_data/"
+    samples = os.listdir(datadir)
+    all_files = []
+    for i in range(len(samples)):
+        sampfiles = []
+        datadir = "./phase3_data/" + samples[i]
+        files = os.listdir(datadir)
+        for file in files:
+            if file.endswith(".bin"):
+                sampfiles += [file]
+        all_files += [sampfiles]
+    return samples, all_files
 
 def prepData(samples, all_files):
     x = []
