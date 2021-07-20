@@ -1,7 +1,7 @@
 # DNA_classifier
 ## Ultimate objective: Use DNA sequence to determine population group of person
 
-### As of 2021/07/17 2037hrs:
+### As of 2021/07/20 1917hrs:
 * **master.py** - Main file of the project, run this. This calls everything. Should have no complex code.
 * **ML.py** - This file contains the LSTM creation and training function.
 * **trainingData.py** - Contains generator function: Reads .bin files and stores data in one hot vectors.
