@@ -15,4 +15,4 @@ unzipAll(samples, files)
 parseAllFastqs(samples, files)
 
 ## Machine learning part
-ml_main(samples, files)
+ml_main()
