@@ -17,8 +17,9 @@ def make_model():
 
 def ml_main(samples, files):
     model = make_model()
+
     ## train model
     # trainDataGenerator() is the generator function
     # model.fit_generator(trainDataGenerator(), batch_size = 1, num_epochs = 10)
-    ##validate
-    ##test
+    
+    ## test model
