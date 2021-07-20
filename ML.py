@@ -19,4 +19,4 @@ def ml_main(samples, files):
     model = make_model()
     ## train model
     # trainDataGenerator will be the generator function
-    # model.fit_generator(trainDataGenerator(samples, files), batch_size = 24, num_epochs = 10)
+    # model.fit_generator(trainDataGenerator(samples, files), batch_size = 1, num_epochs = 10)
