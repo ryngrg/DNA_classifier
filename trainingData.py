@@ -57,10 +57,10 @@ def prepData(sample, file):
         base = (int)(raw[t])
         ohvs += [decoding[base]]
 
-    X = np.array(ohvs)
-    Y = np.array(get_y_sample(sample))
-    print(sample, file, "X shape =", X.shape)
-    print("\t", Y)
+    X = np.array([ohvs])
+    Y = np.array([get_y_sample(sample)])
+    print(sample, file, "\n\tX shape =", X.shape)
+    print("\tY =", Y)
     return X, Y
 
 def get_y_sample(sample):
