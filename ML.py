@@ -39,6 +39,7 @@ def ml_main():
 
     ## train model
     # trainDataGenerator() is the generator function
-    # model.fit_generator(trainDataGenerator(), batch_size = 1, num_epochs = 10)
-    
+    model.fit(trainDataGenerator(), verbose = 1, batch_size = 1, epochs = 10, shuffle = True)
+    model.save('./models/42files10epochs')
+    #...
     ## test model
