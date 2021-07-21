@@ -42,7 +42,3 @@ def ml_main(samples, files):
     # model.fit_generator(trainDataGenerator(), batch_size = 32, num_epochs = 10)
     
     ## test model
-    # y_pred = model.predict()
-    
-    
-  
