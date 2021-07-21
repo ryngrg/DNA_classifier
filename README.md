@@ -1,5 +1,5 @@
 # DNA_classifier
-## Ultimate objective: Use DNA sequence to determine the Superpopulation group of a person
+## Ultimate objective: Use DNA sequence to determine the superpopulation group of a person
 
 ### As of 2021/07/20 1917hrs:
 * **master.py** - Main file of the project, run this. This calls everything. Should have no complex code.
