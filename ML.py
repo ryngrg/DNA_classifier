@@ -39,6 +39,6 @@ def ml_main():
 
     ## train model
     # trainDataGenerator() is the generator function
-    # model.fit_generator(trainDataGenerator(), batch_size = 32, num_epochs = 10)
+    # model.fit_generator(trainDataGenerator(), batch_size = 1, num_epochs = 10)
     
     ## test model
