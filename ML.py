@@ -34,7 +34,7 @@ def make_model():
 ##    Non-trainable params: 0
 ##    _________________________________________________________________
 
-def ml_main(samples, files):
+def ml_main():
     model = make_model()
 
     ## train model
