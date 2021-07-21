@@ -14,6 +14,7 @@ def make_model():
     model.summary()
     model.compile(optimizer = keras.optimizers.Adam(learning_rate=0.001, beta_1=0.9), loss = keras.losses.CategoricalCrossentropy())
     return model
+
 ##    Model: "sequential"
 ##    _________________________________________________________________
 ##    Layer (type)                 Output Shape              Param #   
