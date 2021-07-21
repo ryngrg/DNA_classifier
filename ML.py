@@ -1,18 +1,18 @@
 import tensorflow as tf
-import keras
+#import keras
 import numpy as np
 import matplotlib as plt
 from trainingData import trainDataGenerator
 
 def make_model():
-    model = keras.Sequential()
-    model.add(keras.layers.LSTM(64, return_sequences=True, input_shape=(None, 4)))
-    model.add(keras.layers.Dropout(0.3))
-    model.add(keras.layers.LSTM(10, return_sequences=False))
-    model.add(keras.layers.Dropout(0.3))
-    model.add(keras.layers.Dense(5, activation = tf.nn.softmax))
+    model = tf.keras.Sequential()
+    model.add(tf.keras.layers.LSTM(64, return_sequences=True, input_shape=(None, 4)))
+    model.add(tf.keras.layers.Dropout(0.3))
+    model.add(tf.keras.layers.LSTM(10, return_sequences=False))
+    model.add(tf.keras.layers.Dropout(0.3))
+    model.add(tf.keras.layers.Dense(5, activation = tf.nn.softmax))
     model.summary()
-    model.compile(optimizer = keras.optimizers.Adam(learning_rate=0.001, beta_1=0.9), loss = keras.losses.CategoricalCrossentropy())
+    model.compile(optimizer = tf.keras.optimizers.Adam(learning_rate=0.001, beta_1=0.9), loss = tf.keras.losses.CategoricalCrossentropy())
     return model
 
 ##    Model: "sequential"
