@@ -61,7 +61,7 @@ def download_all_data(samplesRange):
         all_files += [files]
         for file in files:
             if not(os.path.isfile("./phase3_data/" + sample + file)):
-                if not(os.path.isfile("./phase3_data/" + sample + file[:-14] + ".bin")):
+                if not(os.path.isfile("./phase3_data/" + sample + file.split('.')[0] + ".bin")):
                     print("-> downloading file:", file)
                     # download file onto your computer
                     if download_file(sample, file):
