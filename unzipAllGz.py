@@ -31,7 +31,7 @@ def unzipAll(samples, all_files):
         sample = samples[i]
         for file in all_files[i]:
             if not(os.path.isfile("./phase3_data/" + sample + file[:-3])):
-                if not(os.path.isfile("./phase3_data/" + sample + file[:-14] + ".bin")):
+                if not(os.path.isfile("./phase3_data/" + sample + file.split('.')[0] + ".bin")):
                     print("Extracting:", file)
                     if unzip_file(sample, file):
                         num_unzipped += 1
