@@ -12,10 +12,12 @@ def trainDataGenerator():
             ohvs, Y = prepData(sample, file)
             if (ohvs == []):
                 continue
-            for i in range(0, len(ohvs), 400):
-                X = np.array([ohvs[i : i+400]])
-                print("\tX shape =", X.shape)
-                yield X, Y
+            X = np.array([ohvs[:800]])
+            yield X, Y
+            # for i in range(0, len(ohvs), 400):
+                # X = np.array([ohvs[i : i+400]])
+                # print("\tX shape =", X.shape)
+                # yield X, Y
 
 def get_filenames():
     """This function looks in the data directory and returns lists
@@ -57,6 +59,8 @@ def prepData(sample, file):
     f.close()
     ohvs = []
     for t in range(len(raw)):
+        if t > 200:
+            break
         base = (int)(raw[t] / 4**3)
         ohvs += [decoding[base]]
         raw[t] %= (4**3)
