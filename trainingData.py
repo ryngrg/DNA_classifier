@@ -9,7 +9,13 @@ def trainDataGenerator():
     for i in range(len(samples)):
         sample = samples[i]
         for file in all_files[i]:
-            yield prepData(sample, file)
+            ohvs, Y = prepData(sample, file)
+            if (ohvs == None) or (Y == None):
+                continue
+            for i in range(0, len(ohvs), 400):
+                X = np.array([ohvs[i : i+400]])
+                print("\tX shape =", X.shape)
+                yield X, Y
 
 def get_filenames():
     """This function looks in the data directory and returns lists
@@ -30,13 +36,18 @@ def get_filenames():
 
 def prepData(sample, file):
     """This function converts a file's contents into a
-    numpy array of one-hot vectors.
+    list of one-hot vectors.
     """
+    Y = np.array([get_y_sample(sample)])
+    if Y == None:
+        return None, None
+    
     try:
         f = open("./phase3_data/" + sample + "/" + file, 'rb')
     except:
         print("[Error]: Could not access file:", file, "for sample:", sample)
-        return None
+        return None, None
+    
     decoding = [(1, 0, 0, 0),
                 (0, 1, 0, 0),
                 (0, 0, 1, 0),
@@ -57,11 +68,8 @@ def prepData(sample, file):
         base = (int)(raw[t])
         ohvs += [decoding[base]]
 
-    X = np.array([ohvs])
-    Y = np.array([get_y_sample(sample)])
-    print(sample, file, "\n\tX shape =", X.shape)
-    print("\tY =", Y)
-    return X, Y
+    print(sample, file, "\n\tY =", Y)
+    return ohvs, Y
 
 def get_y_sample(sample):
     """This function returns the superpopulation group of a sample
@@ -78,6 +86,10 @@ def get_y_sample(sample):
             sp = supop.strip()
             break
     f.close()
+    try:
+        sp
+    except:
+        return None
     if sp == "AFR":
         return (1, 0, 0, 0, 0)
     elif sp == "AMR":
