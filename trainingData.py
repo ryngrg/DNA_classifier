@@ -10,7 +10,7 @@ def trainDataGenerator():
         sample = samples[i]
         for file in all_files[i]:
             ohvs, Y = prepData(sample, file)
-            if (ohvs == None) or (Y == None):
+            if (ohvs == []):
                 continue
             for i in range(0, len(ohvs), 400):
                 X = np.array([ohvs[i : i+400]])
@@ -40,13 +40,13 @@ def prepData(sample, file):
     """
     Y = np.array([get_y_sample(sample)])
     if Y == None:
-        return None, None
+        return [], np.array([])
     
     try:
         f = open("./phase3_data/" + sample + "/" + file, 'rb')
     except:
         print("[Error]: Could not access file:", file, "for sample:", sample)
-        return None, None
+        return [], np.array([])
     
     decoding = [(1, 0, 0, 0),
                 (0, 1, 0, 0),
