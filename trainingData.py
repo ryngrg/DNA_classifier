@@ -38,9 +38,10 @@ def prepData(sample, file):
     """This function converts a file's contents into a
     list of one-hot vectors.
     """
-    Y = np.array([get_y_sample(sample)])
-    if Y == None:
+    y = get_y_sample(sample)
+    if y == None:
         return [], np.array([])
+    Y = np.array([y])
     
     try:
         f = open("./phase3_data/" + sample + "/" + file, 'rb')
