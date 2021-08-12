@@ -4,6 +4,9 @@ import numpy as np
 import matplotlib as plt
 from trainingData import trainDataGenerator
 
+num_files = 112
+num_epochs = 10
+
 def make_model():
     model = keras.Sequential()
     model.add(keras.layers.LSTM(64, return_sequences=True, input_shape=(None, 4)))
@@ -38,7 +41,7 @@ def ml_main():
     model = make_model()
     ## train model
     # trainDataGenerator() is the generator function
-    model.fit(trainDataGenerator(), verbose = 1, steps_per_epoch = 79, epochs = 10)
-    model.save('./models/92files10epochs')
+    model.fit(trainDataGenerator(num_epochs), verbose = 1, steps_per_epoch = num_files, epochs = num_epochs)
+    model.save('./models/' + str(num_files) + 'files' + str(num_epochs) + 'epochs')
     #...
     ## test model
