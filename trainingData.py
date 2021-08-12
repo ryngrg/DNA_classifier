@@ -1,12 +1,12 @@
 import numpy as np
 import os
 
-def trainDataGenerator():
+def trainDataGenerator(num_epochs):
     """This function gives a generator containing 1 file at a time.
     It yields the sequence, superpopulation as one-hot vectors.
     """
     samples, all_files = get_filenames()
-    for num in range(10):
+    for num in range(num_epochs):
         for i in range(len(samples)):
             sample = samples[i]
             for file in all_files[i]:
