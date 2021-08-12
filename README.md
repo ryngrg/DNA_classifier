@@ -8,7 +8,7 @@
 * **parseSequence.py** - Reads the data in all unzipped data files (.filt.fastq) and encodes the raw sequences in a binary file (.bin)
 * **unzipAllGz.py** - Unzips all .gz files
 * **downloadData.py** - Downloads all sequence reads (.filt.fastq.gz) of all samples and stores it into ./phase3_data/sampleName/
-* **samples_population.csv** - CSV file summarizing the samples of 3115 people, their genders, population code and the superpopulation code.
+* **samples_population.csv** - CSV file listing the samples of 3202 people and the superpopulation code.
 * **./models/92files10epochs/** - contains model trained for 10 epochs on first 800 bases from 92 files (13 of which were skipped as they were not listed in samples_population.csv). Training took just a few seconds to complete
 * **next to do**:
   * train model for subsets of data seperately and store trained weights
