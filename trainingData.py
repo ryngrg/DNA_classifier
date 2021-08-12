@@ -6,18 +6,19 @@ def trainDataGenerator():
     It yields the sequence, superpopulation as one-hot vectors.
     """
     samples, all_files = get_filenames()
-    for i in range(len(samples)):
-        sample = samples[i]
-        for file in all_files[i]:
-            ohvs, Y = prepData(sample, file)
-            if (ohvs == []):
-                continue
-            X = np.array([ohvs[:800]])
-            yield X, Y
-            # for i in range(0, len(ohvs), 400):
-                # X = np.array([ohvs[i : i+400]])
-                # print("\tX shape =", X.shape)
-                # yield X, Y
+    for num in range(10):
+        for i in range(len(samples)):
+            sample = samples[i]
+            for file in all_files[i]:
+                ohvs, Y = prepData(sample, file)
+                if (ohvs == []):
+                    continue
+                X = np.array([ohvs[:800]])
+                yield X, Y
+                # for i in range(0, len(ohvs), 400):
+                    # X = np.array([ohvs[i : i+400]])
+                    # print("\tX shape =", X.shape)
+                    # yield X, Y
 
 def get_filenames():
     """This function looks in the data directory and returns lists
