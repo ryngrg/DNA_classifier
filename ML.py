@@ -46,7 +46,5 @@ def ml_main(train = True):
     else:
         model = keras.models.load_model('./models/800bases112files30epochs')
         for x, y in testDataGenerator():
-            pred = model(x)
-            y_pred = np.zeros(5)
-            y_pred[tf.math.argmax(pred)] = 1
+            y_pred = model(x)
             print(y, y_pred)
