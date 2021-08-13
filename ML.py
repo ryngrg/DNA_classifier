@@ -37,11 +37,16 @@ def make_model():
 ##    Non-trainable params: 0
 ##    _________________________________________________________________
 
-def ml_main():
-    model = make_model()
-    ## train model
-    # trainDataGenerator() is the generator function
-    model.fit(trainDataGenerator(num_epochs), verbose = 1, steps_per_epoch = num_files, epochs = num_epochs)
-    model.save('./models/' + str(num_files) + 'files' + str(num_epochs) + 'epochs')
-    #...
-    ## test model
+def ml_main(train = True):
+    if train:
+        model = make_model()
+        model = keras.models.load_model('./models/800bases112files15epochs')
+        model.fit(trainDataGenerator(num_epochs), verbose = 1, steps_per_epoch = num_files, epochs = num_epochs)
+        model.save('./models/' + "800bases" + str(num_files) + 'files' + str(15 + num_epochs) + 'epochs')
+    else:
+        model = keras.models.load_model('./models/800bases112files30epochs')
+        for x, y in testDataGenerator():
+            pred = model(x)
+            y_pred = np.zeros(5)
+            y_pred[tf.math.argmax(pred)] = 1
+            print(y, y_pred)
