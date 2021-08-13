@@ -20,6 +20,17 @@ def trainDataGenerator(num_epochs):
                     # print("\tX shape =", X.shape)
                     # yield X, Y
 
+def testDataGenerator():
+    samples, all_files = get_filenames()
+    for i in range(len(samples)):
+        sample = samples[i]
+        for file in all_files[i]:
+            ohvs, Y = prepData(sample, file)
+            if (ohvs == []):
+                continue
+            X = np.array([ohvs[800:1600]])
+            yield X, Y
+                    
 def get_filenames():
     """This function looks in the data directory and returns lists
     of all samples and their files available.
@@ -60,7 +71,7 @@ def prepData(sample, file):
     f.close()
     ohvs = []
     for t in range(len(raw)):
-        if t > 200:
+        if t > 400:
             break
         base = (int)(raw[t] / 4**3)
         ohvs += [decoding[base]]
