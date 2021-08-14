@@ -1,11 +1,12 @@
 import tensorflow as tf
 import keras
 import numpy as np
-import matplotlib as plt
+# import matplotlib as plt
 from trainingData import trainDataGenerator
+from trainingData import testDataGenerator
 
 num_files = 112
-num_epochs = 10
+num_epochs = 15
 
 def make_model():
     model = keras.Sequential()
@@ -45,6 +46,23 @@ def ml_main(train = True):
         model.save('./models/' + "800bases" + str(num_files) + 'files' + str(15 + num_epochs) + 'epochs')
     else:
         model = keras.models.load_model('./models/800bases112files30epochs')
+
+        count = 0
+        correct = 0
+        for x, y in trainDataGenerator(1):
+            count += 1
+            pred = model(x)
+            y_pred = pred.numpy()
+            if np.argmax(y) == np.argmax(y_pred):
+                correct += 1
+        print("train accuracy = " + str(correct * 100 / count) + "%")
+
+        count = 0
+        correct = 0
         for x, y in testDataGenerator():
-            y_pred = model(x)
-            print(y, y_pred)
+            count += 1
+            pred = model(x)
+            y_pred = pred.numpy()
+            if np.argmax(y) == np.argmax(y_pred):
+                correct += 1
+        print("test accuracy = " + str(correct * 100 / count) + "%")
