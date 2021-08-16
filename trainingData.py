@@ -25,7 +25,7 @@ def testDataGenerator():
     for i in range(len(samples)):
         sample = samples[i]
         for file in all_files[i]:
-            ohvs, Y = prepData(sample, file)
+            ohvs, Y = prepData(sample, file, False)
             if (ohvs == []):
                 continue
             X = np.array([ohvs[800:1600]])
@@ -48,7 +48,7 @@ def get_filenames():
         all_files += [sampfiles]
     return samples, all_files
 
-def prepData(sample, file):
+def prepData(sample, file, train = True):
     """This function converts a file's contents into a
     list of one-hot vectors.
     """
@@ -70,8 +70,12 @@ def prepData(sample, file):
     raw = list(f.read())
     f.close()
     ohvs = []
+    if train:
+        limit = 200
+    else:
+        limit = 400
     for t in range(len(raw)):
-        if t > 400:
+        if t > limit:
             break
         base = (int)(raw[t] / 4**3)
         ohvs += [decoding[base]]
