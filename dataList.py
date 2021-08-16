@@ -18,7 +18,6 @@ def writeData(sample, file):
 
 def get_y_sample(sample):
     """This function returns the superpopulation group of a sample
-    encoded as a one-hot vector
     """
     f = open("./samples_population.csv")
     f.readline()
