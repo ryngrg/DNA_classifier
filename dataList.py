@@ -2,7 +2,7 @@ import os
 from trainingData import get_filenames
 
 def stats_main():
-    f = open("stats.csv", "w")
+    f = open("dataList.csv", "w")
     samples, all_files = get_filenames()
     for i in range(len(samples)):
         sample = samples[i]
