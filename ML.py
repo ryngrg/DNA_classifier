@@ -5,8 +5,8 @@ import numpy as np
 from trainingData import trainDataGenerator
 from trainingData import testDataGenerator
 
-num_files = 112
-num_epochs = 15
+num_files = 261
+num_epochs = 30
 
 def make_model():
     model = keras.Sequential()
@@ -41,9 +41,9 @@ def make_model():
 def ml_main(train = True):
     if train:
         model = make_model()
-        model = keras.models.load_model('./models/800bases112files15epochs')
+        # model = keras.models.load_model('./models/800bases112files15epochs')
         model.fit(trainDataGenerator(num_epochs), verbose = 1, steps_per_epoch = num_files, epochs = num_epochs)
-        model.save('./models/' + "800bases" + str(num_files) + 'files' + str(15 + num_epochs) + 'epochs')
+        model.save('./models/' + "800bases" + str(num_files) + 'files' + str(num_epochs) + 'epochs')
     else:
         model = keras.models.load_model('./models/800bases112files30epochs')
 
