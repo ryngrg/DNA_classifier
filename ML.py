@@ -41,28 +41,31 @@ def make_model():
 def ml_main(train = True):
     if train:
         model = make_model()
-        # model = keras.models.load_model('./models/800bases112files15epochs')
+        # model = keras.models.load_model('./models/800bases259files30epochs')
         model.fit(trainDataGenerator(num_epochs), verbose = 1, steps_per_epoch = num_files, epochs = num_epochs)
         model.save('./models/' + "800bases" + str(num_files) + 'files' + str(num_epochs) + 'epochs')
     else:
-        model = keras.models.load_model('./models/800bases112files30epochs')
+        m_name = './models/800bases248files60epochs'
+        print("train accuracy = " + calc_accuracy(m_name, trainDataGenerator(1)) + "%")
+        print("test accuracy = " + calc_accuracy(m_name, testDataGenerator()) + "%")
 
-        count = 0
-        correct = 0
-        for x, y in trainDataGenerator(1):
-            count += 1
-            pred = model(x)
-            y_pred = pred.numpy()
-            if np.argmax(y) == np.argmax(y_pred):
-                correct += 1
-        print("train accuracy = " + str(correct * 100 / count) + "%")
-
-        count = 0
-        correct = 0
-        for x, y in testDataGenerator():
-            count += 1
-            pred = model(x)
-            y_pred = pred.numpy()
-            if np.argmax(y) == np.argmax(y_pred):
-                correct += 1
-        print("test accuracy = " + str(correct * 100 / count) + "%")
+def calc_accuracy(m_name, data_generator):
+    try:
+        model = keras.models.load_model(m_name)
+    except:
+        print("can't load model " + m_name)
+        return "-"
+    count = 0
+    correct = 0
+    samps = [0, 0, 0, 0, 0]
+    corre = [0, 0, 0, 0, 0]
+    for x, y in data_generator:
+        count += 1
+        pred = model(x)
+        y_pred = pred.numpy()
+        samps[np.argmax(y)] += 1
+        corre[np.argmax(y_pred)] += 1
+        if np.argmax(y) == np.argmax(y_pred):
+            correct += 1
+    print(corre, "/", samps)
+    return str(correct * 100 / count)
