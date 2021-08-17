@@ -64,8 +64,8 @@ def calc_accuracy(m_name, data_generator):
         pred = model(x)
         y_pred = pred.numpy()
         samps[np.argmax(y)] += 1
-        corre[np.argmax(y_pred)] += 1
         if np.argmax(y) == np.argmax(y_pred):
+            corre[np.argmax(y_pred)] += 1
             correct += 1
     print(corre, "/", samps)
     return str(correct * 100 / count)
